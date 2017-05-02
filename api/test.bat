@@ -1,0 +1,1 @@
+crf_test -m model test.txt > result.txt
