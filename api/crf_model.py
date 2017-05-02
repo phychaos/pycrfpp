@@ -56,6 +56,7 @@ class CRFModel(object):
             elif tag in [end, single]:
                 tag_text += word + "*&*"
         result = tag_text.split('*&*')
+        result.pop()
         return result
 
     def crf_test(self, tag_data, separator='_'):
