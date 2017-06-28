@@ -1,0 +1,27239 @@
+可	O
+疑	O
+碘	E
+过	O
+敏	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+：	O
+青	B
+霉	I
+素	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+鱼	O
+虾	O
+等	O
+海	O
+产	O
+品	O
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+及	O
+阿	O
+司	O
+匹	O
+林	O
+等	O
+药	O
+物	O
+过	O
+敏	O
+
+发	O
+现	O
+心	O
+房	O
+纤	O
+颤	O
+1	O
+个	O
+月	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+“	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+”	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+”	O
+过	O
+敏	O
+
+有	O
+青	B
+霉	I
+素	E
+及	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	I
+注	I
+射	I
+液	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+及	O
+茴	O
+香	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+皮	O
+试	O
+阳	O
+性	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+“	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+”	O
+过	O
+敏	O
+史	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+芒	O
+果	O
+过	O
+敏	O
+
+药	O
+物	O
+应	O
+用	O
+对	O
+“	B
+黄	I
+连	I
+素	E
+”	O
+过	O
+敏	O
+
+
+有	O
+海	O
+鲜	O
+、	O
+牛	O
+奶	O
+、	O
+茶	O
+水	O
+、	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+对	O
+紫	O
+外	O
+线	O
+过	O
+敏	O
+
+既	O
+往	O
+有	O
+青	B
+霉	I
+素	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+刺	B
+五	I
+加	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	I
+类	E
+、	O
+磺	B
+胺	I
+类	E
+、	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+,	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+去	B
+痛	I
+片	E
+”	O
+过	O
+敏	O
+
+长	B
+春	I
+西	I
+汀	E
+过	O
+敏	O
+史	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+”	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+“	O
+磺	B
+胺	I
+类	E
+”	O
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+描	O
+述	O
+对	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+奥	B
+扎	I
+格	I
+雷	I
+钠	I
+氯	I
+化	I
+钠	I
+针	E
+、	O
+疏	B
+血	I
+通	I
+注	I
+射	I
+液	E
+、	O
+依	B
+达	I
+拉	I
+奉	I
+注	I
+射	I
+液	E
+”	O
+过	O
+敏	O
+
+有	O
+阿	B
+奇	I
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+
+对	O
+丹	B
+参	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+
+曾	O
+出	O
+现	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	E
+、	O
+巴	B
+米	I
+尔	E
+等	O
+药	O
+物	O
+和	O
+豌	O
+豆	O
+、	O
+海	O
+鲜	O
+等	O
+食	O
+物	O
+及	O
+冷	O
+空	O
+气	O
+过	O
+敏	O
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+、	O
+“	O
+链	B
+霉	I
+素	E
+”	O
+过	O
+敏	O
+
+表	O
+现	O
+为	O
+皮	O
+试	O
+时	O
+出	O
+现	O
+局	O
+部	O
+皮	O
+肤	O
+发	O
+红	O
+
+“	B
+磺	I
+胺	I
+”	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+花	O
+粉	O
+、	O
+灰	O
+尘	O
+、	O
+虫	O
+螨	O
+过	O
+敏	O
+
+对	O
+“	O
+酒	O
+类	O
+”	O
+过	O
+敏	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+、	O
+海	O
+鲜	O
+、	O
+螨	O
+虫	O
+、	O
+粉	O
+尘	O
+等	O
+均	O
+过	O
+敏	O
+
+对	O
+“	O
+香	O
+料	O
+”	O
+及	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+海	O
+鲜	O
+过	O
+敏	O
+
+有	O
+芒	O
+果	O
+过	O
+敏	O
+史	O
+
+“	O
+退	B
+热	I
+药	E
+”	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+及	O
+头	B
+孢	I
+菌	I
+素	E
+过	O
+敏	O
+
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+及	O
+安	B
+痛	I
+定	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+、	O
+“	O
+丁	B
+苯	I
+酞	I
+注	I
+射	I
+液	E
+”	O
+过	O
+敏	O
+史	O
+
+破	B
+伤	I
+风	I
+药	I
+物	E
+过	O
+敏	O
+
+食	O
+物	O
+龙	O
+虾	O
+过	O
+敏	O
+
+“	O
+华	B
+佗	I
+再	I
+造	I
+丸	E
+”	O
+过	O
+敏	O
+
+磺	B
+胺	I
+药	I
+物	E
+、	O
+麻	B
+醉	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+“	B
+丹	I
+参	I
+酮	E
+”	O
+过	O
+敏	O
+
+术	O
+后	O
+恢	O
+复	O
+可	O
+；	O
+无	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+，	O
+头	B
+孢	E
+”	O
+过	O
+敏	O
+
+氧	B
+氟	I
+沙	I
+星	E
+过	O
+敏	O
+史	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+破	B
+伤	I
+风	E
+过	O
+敏	O
+
+患	O
+者	O
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+“	O
+酒	O
+精	O
+、	O
+左	B
+氧	I
+氟	I
+沙	I
+星	E
+”	O
+过	O
+敏	O
+
+有	O
+某	O
+种	O
+止	B
+痛	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+阿	B
+莫	I
+西	I
+林	E
+过	O
+敏	O
+史	O
+
+药	O
+物	O
+过	O
+敏	O
+史	O
+不	O
+详	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+“	O
+甲	B
+硝	I
+唑	E
+”	O
+过	O
+敏	O
+史	O
+
+海	O
+鲜	O
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+庆	B
+大	I
+霉	I
+素	E
+过	O
+敏	O
+
+无	O
+药	O
+物	O
+及	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+特	O
+殊	O
+食	O
+物	O
+、	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+卡	B
+马	I
+西	I
+平	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+皮	O
+试	O
+阳	O
+性	O
+史	O
+
+对	O
+左	B
+氧	I
+氟	I
+沙	I
+星	E
+过	O
+敏	O
+
+氨	B
+茶	I
+碱	E
+过	O
+敏	O
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+海	O
+鲜	O
+、	O
+羊	O
+肉	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+既	O
+往	O
+碘	B
+酒	E
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+曲	I
+松	I
+钠	E
+、	O
+氧	B
+氟	I
+沙	I
+星	I
+滴	I
+眼	I
+液	E
+过	O
+敏	O
+史	O
+
+
+有	O
+花	O
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	I
+类	E
+及	O
+花	O
+粉	O
+过	O
+敏	O
+
+对	O
+“	O
+维	B
+生	I
+素	I
+B	I
+1	E
+过	O
+敏	O
+”	O
+，	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+米	I
+诺	I
+钠	E
+过	O
+敏	O
+
+有	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+铁	O
+器	O
+过	O
+敏	O
+史	O
+
+对	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+双	B
+黄	I
+连	E
+过	O
+敏	O
+
+有	O
+虫	O
+螨	O
+等	O
+接	O
+触	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+及	O
+阿	B
+司	I
+匹	I
+林	E
+”	O
+过	O
+敏	O
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+；	O
+食	O
+物	O
+有	O
+鸡	O
+蛋	O
+、	O
+牛	O
+奶	O
+过	O
+敏	O
+
+对	O
+“	O
+银	O
+耳	O
+”	O
+过	O
+敏	O
+
+对	O
+红	B
+药	I
+水	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+镇	B
+静	I
+剂	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+
+青	B
+霉	I
+素	E
+皮	O
+试	O
+后	O
+局	O
+部	O
+红	O
+色	O
+皮	O
+疹	O
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+（	O
+皮	O
+试	O
+阳	O
+性	O
+）	O
+，	O
+无	O
+食	O
+物	O
+及	O
+花	O
+粉	O
+过	O
+敏	O
+史	O
+
+有	O
+棉	O
+絮	O
+、	O
+屋	O
+尘	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+及	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+“	O
+青	B
+霉	I
+素	E
+”	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+鱼	O
+肉	O
+过	O
+敏	O
+
+对	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+对	O
+血	B
+栓	I
+通	E
+、	O
+长	B
+春	I
+西	I
+汀	E
+过	O
+敏	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+大	O
+豆	O
+”	O
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+青	B
+霉	I
+素	E
+，	O
+红	B
+霉	I
+素	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+,	O
+有	O
+海	O
+鲜	O
+类	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+及	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+桃	O
+、	O
+樱	O
+桃	O
+过	O
+敏	O
+
+有	O
+“	O
+青	B
+霉	I
+素	E
+、	O
+先	B
+锋	I
+类	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+。	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+“	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+”	O
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+“	O
+硝	B
+苯	I
+地	I
+平	E
+”	O
+、	O
+“	O
+造	B
+影	I
+剂	I
+？	E
+”	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+（	O
+皮	O
+试	O
+）	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+否	O
+认	O
+外	O
+伤	O
+及	O
+食	O
+物	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+菠	O
+萝	O
+、	O
+山	O
+药	O
+、	O
+芋	O
+头	O
+及	O
+猕	O
+猴	O
+桃	O
+过	O
+敏	O
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+
+对	O
+青	B
+霉	I
+素	I
+类	E
+、	O
+磺	B
+胺	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+罗	B
+红	I
+霉	I
+素	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+示	O
+
+青	B
+霉	I
+素	E
+、	O
+氯	B
+霉	I
+素	E
+过	O
+敏	O
+
+有	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+（	O
+具	O
+体	O
+药	O
+物	O
+不	O
+详	O
+）	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+；	O
+对	O
+吃	O
+鱼	O
+虾	O
+、	O
+羊	O
+肉	O
+过	O
+敏	O
+
+对	O
+尿	B
+激	I
+酶	E
+过	O
+敏	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+、	O
+发	O
+病	O
+1	O
+月	O
+前	O
+“	O
+染	O
+发	O
+”	O
+后	O
+过	O
+敏	O
+
+有	O
+青	B
+霉	I
+素	I
+类	I
+药	I
+物	E
+、	O
+头	B
+孢	I
+菌	I
+素	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+对	O
+止	B
+痛	I
+药	E
+过	O
+敏	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+：	O
+链	B
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+“	O
+丹	B
+硝	E
+”	O
+、	O
+“	O
+脑	B
+宁	E
+”	O
+过	O
+敏	O
+
+对	O
+“	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+”	O
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+“	O
+豆	O
+制	O
+品	O
+”	O
+食	O
+物	O
+过	O
+敏	O
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+、	O
+优	B
+维	I
+显	E
+、	O
+染	O
+发	O
+剂	O
+过	O
+敏	O
+
+对	O
+虫	O
+螨	O
+接	O
+触	O
+过	O
+敏	O
+史	O
+
+有	O
+葛	B
+根	E
+过	O
+敏	O
+史	O
+
+对	O
+头	B
+孢	I
+类	E
+、	O
+庆	B
+大	I
+霉	I
+素	E
+过	O
+敏	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+、	O
+先	B
+锋	I
+霉	I
+素	E
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+“	B
+头	I
+孢	I
+类	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+、	O
+鱼	B
+腥	I
+草	E
+过	O
+敏	O
+史	O
+
+有	O
+磺	B
+胺	E
+过	O
+敏	O
+史	O
+
+
+对	O
+“	O
+去	B
+痛	I
+片	E
+”	O
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	I
+类	E
+、	O
+头	B
+孢	I
+类	E
+、	O
+链	B
+霉	I
+素	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+对	O
+“	B
+磺	I
+胺	I
+”	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+二	B
+甲	I
+双	I
+胍	E
+过	O
+敏	O
+
+既	O
+往	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+有	O
+灯	B
+盏	I
+花	I
+素	E
+过	O
+敏	O
+史	O
+
+描	O
+述	O
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+、	O
+利	B
+特	I
+灵	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+：	O
+磺	B
+胺	I
+类	E
+有	O
+皮	O
+疹	O
+
+对	O
+“	O
+地	B
+西	I
+泮	E
+、	O
+替	B
+米	I
+沙	I
+坦	E
+过	O
+敏	O
+”	O
+
+对	O
+环	B
+丙	I
+沙	I
+星	E
+过	O
+敏	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+（	O
+具	O
+体	O
+药	O
+物	O
+叙	O
+述	O
+不	O
+清	O
+）	O
+
+对	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+苹	O
+果	O
+皮	O
+、	O
+山	O
+楂	O
+、	O
+桃	O
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+药	O
+物	O
+过	O
+敏	O
+
+去	B
+痛	I
+片	E
+过	O
+敏	O
+
+
+有	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+。	O
+
+对	O
+“	O
+佐	B
+匹	I
+克	I
+隆	E
+”	O
+过	O
+敏	O
+
+对	O
+二	B
+甲	I
+双	I
+胍	E
+及	O
+长	B
+春	I
+西	I
+汀	E
+过	O
+敏	O
+
+对	O
+“	O
+花	O
+粉	O
+”	O
+过	O
+敏	O
+
+描	O
+述	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+“	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+
+
+对	O
+他	B
+汀	I
+类	I
+药	I
+物	E
+、	O
+青	B
+霉	I
+素	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+无	O
+食	O
+物	O
+中	O
+毒	O
+史	O
+或	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+海	O
+鲜	O
+过	O
+敏	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+头	B
+孢	I
+类	I
+药	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+及	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+自	O
+述	O
+对	O
+“	O
+丹	B
+参	E
+”	O
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+自	O
+诉	O
+曾	O
+有	O
+“	O
+奴	B
+卡	I
+因	E
+”	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+尘	O
+螨	O
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+（	O
+具	O
+体	O
+药	O
+物	O
+不	O
+详	O
+）	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+静	O
+滴	O
+“	O
+莫	B
+西	I
+沙	I
+星	E
+”	O
+时	O
+出	O
+现	O
+过	O
+敏	O
+反	O
+应	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+自	O
+述	O
+缬	B
+沙	I
+坦	E
+、	O
+牛	O
+奶	O
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+既	O
+往	O
+偶	O
+有	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+及	O
+“	B
+头	I
+孢	I
+类	I
+”	I
+药	I
+物	E
+皮	O
+试	O
+阳	O
+性	O
+史	O
+
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+既	O
+往	O
+偶	O
+有	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+及	O
+“	B
+头	I
+孢	I
+类	I
+”	I
+药	I
+物	E
+皮	O
+试	O
+阳	O
+性	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+青	B
+霉	I
+素	E
+及	O
+果	O
+皮	O
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+食	O
+物	O
+、	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+
+青	B
+霉	I
+素	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+，	O
+无	O
+其	O
+它	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+
+曾	O
+有	O
+局	B
+麻	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+红	B
+霉	I
+素	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+自	O
+诉	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+、	O
+卡	B
+那	I
+霉	I
+素	E
+、	O
+新	B
+青	I
+霉	I
+素	E
+“	O
+过	O
+敏	O
+（	O
+恶	O
+心	O
+、	O
+呕	O
+吐	O
+）	O
+
+对	O
+“	O
+痢	B
+特	I
+灵	E
+”	O
+过	O
+敏	O
+（	O
+皮	O
+疹	O
+）	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+：	O
+磺	B
+胺	E
+过	O
+敏	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+：	O
+磺	B
+胺	E
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+,	O
+对	O
+青	B
+霉	I
+素	E
+及	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+
+有	O
+氨	B
+茶	I
+碱	E
+、	O
+麻	B
+黄	E
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+头	B
+孢	I
+类	E
+过	O
+敏	O
+
+
+氨	B
+茶	I
+碱	E
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+“	B
+清	I
+开	I
+灵	E
+、	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+、	O
+阿	B
+奇	I
+霉	I
+素	E
+”	O
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+曾	O
+有	O
+药	O
+物	O
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+自	O
+诉	O
+对	O
+“	O
+磺	B
+胺	I
+类	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+“	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+”	O
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+有	O
+药	O
+物	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+
+过	O
+敏	O
+史	O
+：	O
+奥	B
+卡	I
+西	I
+平	I
+口	I
+服	I
+液	E
+出	O
+皮	O
+疹	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+自	O
+诉	O
+曾	O
+对	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+拜	B
+复	I
+乐	E
+过	O
+敏	O
+
+海	O
+鲜	O
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+磺	B
+胺	E
+过	O
+敏	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+自	O
+诉	O
+对	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+既	O
+往	O
+亚	B
+莫	I
+利	E
+（	O
+格	B
+列	I
+美	I
+脲	E
+）	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+：	O
+对	O
+阿	B
+奇	I
+霉	I
+素	E
+（	O
+口	O
+服	O
+后	O
+嘴	O
+肿	O
+）	O
+、	O
+青	B
+霉	I
+素	E
+（	O
+皮	O
+试	O
+阳	O
+性	O
+）	O
+、	O
+利	B
+复	I
+星	E
+（	O
+周	O
+身	O
+皮	O
+疹	O
+）	O
+等	O
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+碘	B
+酒	E
+过	O
+敏	O
+
+
+自	O
+诉	O
+“	B
+磺	I
+胺	I
+类	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+过	O
+敏	O
+史	O
+：	O
+青	B
+霉	I
+素	E
+皮	O
+试	O
+阳	O
+性	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+药	O
+物	O
+过	O
+敏	O
+史	O
+：	O
+青	B
+霉	I
+素	E
+皮	O
+试	O
+过	O
+敏	O
+
+否	O
+头	B
+孢	E
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+β	B
+内	I
+酰	I
+胺	I
+类	I
+抗	I
+生	I
+素	E
+、	O
+痢	B
+特	I
+灵	E
+过	O
+敏	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+急	O
+诊	O
+行	O
+拉	B
+氧	I
+头	I
+孢	E
+、	O
+青	B
+霉	I
+素	E
+皮	O
+试	O
+阳	O
+性	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+自	O
+诉	O
+对	O
+海	O
+鲜	O
+过	O
+敏	O
+
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+皮	O
+试	O
+阳	O
+性	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+酒	O
+精	O
+及	O
+至	O
+少	O
+7	O
+种	O
+降	B
+压	I
+药	E
+过	O
+敏	O
+
+酒	O
+精	O
+过	O
+敏	O
+症	O
+状	O
+为	O
+涂	O
+抹	O
+后	O
+局	O
+部	O
+发	O
+红	O
+、	O
+发	O
+痒	O
+
+
+药	O
+物	O
+过	O
+敏	O
+史	O
+：	O
+无	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+拜	B
+复	I
+乐	E
+过	O
+敏	O
+
+否	O
+认	O
+视	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+对	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+药	O
+物	O
+过	O
+敏	O
+史	O
+：	O
+否	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+药	O
+物	O
+过	O
+敏	O
+史	O
+：	O
+否	O
+认	O
+
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+
+自	O
+诉	O
+对	O
+“	B
+磺	I
+胺	I
+类	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+
+对	O
+庆	B
+大	I
+霉	I
+素	E
+及	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+门	O
+诊	O
+青	B
+霉	I
+素	E
+皮	O
+试	O
+阳	O
+性	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+磺	B
+胺	I
+类	E
+、	O
+青	B
+霉	I
+素	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+氯	E
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+“	O
+蒿	B
+草	E
+”	O
+过	O
+敏	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+患	O
+者	O
+自	O
+诉	O
+有	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+具	O
+体	O
+药	O
+物	O
+不	O
+详	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+自	O
+诉	O
+对	O
+鸡	O
+蛋	O
+、	O
+腌	O
+制	O
+品	O
+、	O
+菌	O
+类	O
+、	O
+鱼	O
+虾	O
+过	O
+敏	O
+
+
+对	O
+“	O
+磺	B
+胺	I
+类	E
+”	O
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+及	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+食	O
+物	O
+、	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+：	O
+有	O
+青	B
+霉	I
+素	E
+、	O
+苏	B
+灵	E
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+过	O
+敏	O
+史	O
+：	O
+无	O
+
+
+有	O
+青	B
+霉	I
+素	E
+输	O
+液	O
+严	O
+重	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+氨	O
+苄	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+（	O
+起	O
+皮	O
+疹	O
+）	O
+
+对	O
+阿	B
+莫	I
+西	I
+林	E
+过	O
+敏	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+左	B
+氧	I
+氟	I
+沙	I
+星	E
+”	O
+过	O
+敏	O
+
+对	O
+“	O
+磺	B
+胺	I
+类	E
+、	O
+醒	B
+脑	I
+静	E
+”	O
+药	O
+物	O
+过	O
+敏	O
+
+对	O
+荞	O
+麦	O
+过	O
+敏	O
+
+“	O
+磺	B
+胺	I
+药	E
+”	O
+过	O
+敏	O
+史	O
+
+可	O
+疑	O
+头	B
+孢	I
+呋	I
+辛	E
+过	O
+敏	O
+
+有	O
+“	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+”	O
+过	O
+敏	O
+史	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+拉	B
+莫	I
+三	I
+嗪	E
+”	O
+过	O
+敏	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+（	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+）	O
+
+“	B
+头	I
+孢	I
+类	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+止	B
+疼	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+可	O
+乐	O
+、	O
+藿	B
+香	I
+正	I
+气	I
+水	I
+/	I
+胶	I
+囊	E
+及	O
+酒	O
+精	O
+过	O
+敏	O
+
+有	O
+海	O
+鲜	O
+、	O
+辣	O
+椒	O
+过	O
+敏	O
+史	O
+
+对	O
+阿	B
+奇	I
+霉	I
+素	E
+过	O
+敏	O
+
+
+描	O
+述	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+“	O
+克	B
+林	I
+霉	I
+素	E
+”	O
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	E
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+。	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+磺	B
+胺	I
+类	E
+”	O
+及	O
+“	O
+头	B
+孢	I
+类	E
+”	O
+过	O
+敏	O
+
+对	O
+“	O
+头	B
+孢	I
+地	I
+尼	E
+"	O
+过	O
+敏	O
+！	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+柴	O
+胡	O
+及	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+磺	B
+胺	E
+、	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+对	O
+别	B
+嘌	I
+呤	I
+醇	E
+过	O
+敏	O
+
+对	O
+芹	O
+菜	O
+、	O
+牛	O
+肉	O
+、	O
+猫	O
+毛	O
+过	O
+敏	O
+
+对	O
+“	O
+花	O
+粉	O
+”	O
+“	O
+粉	O
+尘	O
+”	O
+过	O
+敏	O
+
+对	O
+“	O
+磺	B
+胺	I
+药	I
+物	E
+”	O
+过	O
+敏	O
+
+
+磺	B
+胺	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+稳	B
+心	I
+颗	I
+粒	E
+过	O
+敏	O
+
+否	O
+认	O
+其	O
+他	O
+食	O
+物	O
+及	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+有	O
+“	O
+磺	B
+胺	I
+药	E
+”	O
+过	O
+敏	O
+史	O
+
+对	O
+万	B
+古	I
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+氨	B
+茶	I
+碱	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+“	O
+磺	B
+胺	I
+类	E
+”	O
+过	O
+敏	O
+
+药	O
+物	O
+应	O
+用	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+有	O
+酒	O
+精	O
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+表	O
+现	O
+为	O
+皮	O
+肤	O
+发	O
+红	O
+、	O
+皮	O
+疹	O
+
+对	O
+“	O
+螃	O
+蟹	O
+”	O
+过	O
+敏	O
+
+表	O
+现	O
+为	O
+皮	O
+疹	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+曾	O
+有	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+
+对	O
+“	O
+庆	B
+大	I
+霉	I
+素	E
+”	O
+过	O
+敏	O
+
+有	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	E
+过	O
+敏	O
+史	O
+
+有	O
+可	O
+疑	O
+抗	B
+生	I
+素	E
+过	O
+敏	O
+史	O
+
+对	O
+阿	B
+莫	I
+西	I
+林	E
+过	O
+敏	O
+
+酒	O
+精	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	I
+类	E
+、	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+对	O
+“	O
+头	B
+孢	I
+类	E
+”	O
+过	O
+敏	O
+,	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+、	O
+尤	B
+瑞	I
+克	I
+林	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+及	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+普	B
+鲁	I
+卡	I
+因	E
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+链	B
+霉	I
+素	E
+、	O
+氯	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+有	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+”	O
+过	O
+敏	O
+
+螃	O
+蟹	O
+过	O
+敏	O
+
+
+对	O
+造	B
+影	I
+剂	E
+过	O
+敏	O
+
+否	O
+认	O
+药	O
+物	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+感	B
+冒	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+有	O
+酒	O
+精	O
+、	O
+鱼	O
+虾	O
+、	O
+麻	B
+醉	I
+药	E
+过	O
+敏	O
+史	O
+
+有	O
+青	B
+霉	I
+素	E
+、	O
+红	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+、	O
+利	B
+复	I
+星	E
+等	O
+药	O
+物	O
+有	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+及	O
+磺	B
+胺	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	I
+类	E
+过	O
+敏	O
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	E
+”	O
+皮	O
+试	O
+过	O
+敏	O
+
+对	O
+海	O
+鲜	O
+、	O
+鸡	O
+肉	O
+过	O
+敏	O
+
+患	O
+者	O
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+级	O
+海	O
+鲜	O
+过	O
+敏	O
+
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+史	O
+
+“	O
+银	B
+杏	I
+制	I
+剂	E
+”	O
+过	O
+敏	O
+史	O
+
+有	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+：	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+、	O
+青	B
+霉	I
+素	E
+、	O
+庆	B
+大	I
+霉	I
+素	E
+及	O
+酒	O
+精	O
+过	O
+敏	O
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	E
+过	O
+敏	O
+
+有	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+“	B
+磺	I
+胺	I
+类	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+海	O
+鲜	O
+中	O
+贝	O
+壳	O
+类	O
+”	O
+过	O
+敏	O
+
+既	O
+往	O
+亚	B
+莫	I
+利	E
+（	O
+格	B
+列	I
+美	I
+脲	E
+）	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+描	O
+述	O
+有	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+酒	O
+精	O
+”	O
+过	O
+敏	O
+
+有	O
+"	O
+青	B
+霉	I
+素	E
+"	O
+过	O
+敏	O
+史	O
+
+述	O
+对	O
+海	O
+鲜	O
+过	O
+敏	O
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+、	O
+“	O
+普	B
+鲁	I
+卡	I
+因	E
+”	O
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+氨	B
+茶	I
+碱	E
+过	O
+敏	O
+史	O
+
+普	B
+鲁	I
+卡	I
+因	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+
+青	B
+霉	I
+素	E
+严	O
+重	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+及	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+“	O
+阿	B
+司	I
+匹	I
+林	E
+”	O
+过	O
+敏	O
+
+描	O
+述	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+阿	B
+莫	I
+西	I
+林	E
+”	O
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+及	O
+菌	O
+必	O
+治	O
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	E
+过	O
+敏	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+存	O
+在	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+磺	B
+胺	E
+过	O
+敏	O
+史	O
+
+碘	B
+海	I
+醇	E
+过	O
+敏	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+描	O
+述	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+药	I
+物	E
+过	O
+敏	O
+
+其	O
+他	O
+药	O
+物	O
+、	O
+食	O
+物	O
+不	O
+详	O
+
+对	O
+“	B
+磺	I
+胺	I
+”	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+皮	O
+试	O
+（	O
++	O
+）	O
+
+有	O
+青	B
+霉	I
+素	E
+及	O
+头	B
+孢	E
+过	O
+敏	O
+史	O
+
+有	O
+链	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+；	O
+桃	O
+毛	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+药	I
+物	E
+过	O
+敏	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+对	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+对	O
+酒	O
+精	O
+、	O
+头	B
+孢	I
+曲	I
+松	I
+钠	E
+过	O
+敏	O
+
+对	O
+蘑	O
+菇	O
+过	O
+敏	O
+
+有	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+链	B
+霉	I
+素	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+、	O
+青	B
+霉	I
+素	I
+类	I
+药	I
+物	E
+及	O
+别	B
+嘌	I
+醇	E
+过	O
+敏	O
+
+表	O
+现	O
+为	O
+皮	O
+肤	O
+疱	O
+疹	O
+。	O
+有	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+描	O
+述	O
+磺	B
+胺	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+海	O
+鲜	O
+及	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+无	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+银	B
+杏	I
+叶	I
+胶	I
+囊	E
+过	O
+敏	O
+
+药	O
+物	O
+应	O
+用	O
+青	B
+霉	I
+素	E
+，	O
+头	B
+孢	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	E
+过	O
+敏	O
+
+对	O
+芬	B
+必	I
+得	E
+（	O
+布	B
+洛	I
+芬	I
+缓	I
+释	I
+胶	I
+囊	E
+）	O
+过	O
+敏	O
+
+对	O
+“	O
+磺	B
+胺	I
+类	I
+药	E
+、	O
+青	B
+霉	I
+素	E
+”	O
+过	O
+敏	O
+
+对	O
+虾	O
+类	O
+食	O
+物	O
+等	O
+过	O
+敏	O
+
+对	O
+多	O
+种	O
+食	O
+物	O
+过	O
+敏	O
+（	O
+包	O
+括	O
+海	O
+鲜	O
+鱼	O
+虾	O
+、	O
+鸡	O
+蛋	O
+、	O
+香	O
+菜	O
+、	O
+酒	O
+精	O
+、	O
+坚	O
+果	O
+类	O
+）	O
+、	O
+对	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	E
+、	O
+磺	B
+胺	I
+类	E
+、	O
+麻	B
+黄	I
+碱	E
+、	O
+甘	B
+草	I
+合	I
+剂	E
+过	O
+敏	O
+
+对	O
+“	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+”	O
+过	O
+敏	O
+
+自	O
+述	O
+“	O
+碘	B
+伏	E
+”	O
+过	O
+敏	O
+
+对	O
+碘	B
+剂	E
+过	O
+敏	O
+史	O
+
+有	O
+四	B
+环	I
+素	E
+过	O
+敏	O
+史	O
+
+
+对	O
+感	B
+冒	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+（	O
+具	O
+体	O
+不	O
+详	O
+）	O
+
+碘	B
+剂	E
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+；	O
+蘑	O
+菇	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+及	O
+海	O
+鲜	O
+过	O
+敏	O
+
+对	O
+皮	O
+带	O
+及	O
+胶	O
+布	O
+等	O
+物	O
+品	O
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+既	O
+往	O
+有	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+患	O
+者	O
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+既	O
+往	O
+青	B
+霉	I
+素	E
+及	O
+头	B
+孢	I
+类	E
+过	O
+敏	O
+。	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+描	O
+述	O
+对	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+韭	O
+菜	O
+炒	O
+虾	O
+皮	O
+过	O
+敏	O
+
+对	O
+花	O
+粉	O
+过	O
+敏	O
+
+对	O
+四	B
+环	I
+素	E
+过	O
+敏	O
+
+曾	O
+行	O
+青	B
+霉	I
+素	E
+及	O
+头	B
+孢	I
+皮	I
+试	E
+阳	O
+性	O
+
+药	O
+物	O
+应	O
+用	O
+无	O
+过	O
+敏	O
+史	O
+
+
+对	O
+阿	B
+司	I
+匹	I
+林	E
+、	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	E
+”	O
+过	O
+敏	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+,	O
+对	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+对	O
+红	B
+霉	I
+素	E
+过	O
+敏	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+别	B
+嘌	I
+呤	I
+醇	I
+药	I
+物	E
+过	O
+敏	O
+
+有	O
+正	B
+痛	I
+片	E
+、	O
+扑	B
+热	I
+息	I
+痛	E
+、	O
+天	B
+麻	I
+素	E
+过	O
+敏	O
+史	O
+
+对	O
+洛	B
+汀	I
+新	E
+过	O
+敏	O
+
+自	O
+述	O
+安	B
+乃	I
+近	E
+过	O
+敏	O
+
+药	O
+物	O
+阿	O
+司	O
+匹	O
+林	O
+过	O
+敏	O
+史	O
+
+对	O
+花	O
+粉	O
+及	O
+宠	O
+物	O
+毛	O
+发	O
+过	O
+敏	O
+
+“	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+”	O
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+对	O
+“	O
+阿	B
+司	I
+匹	I
+林	I
+片	E
+、	O
+安	B
+乃	I
+近	I
+片	E
+”	O
+过	O
+敏	O
+
+否	O
+认	O
+其	O
+他	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+及	O
+头	B
+孢	I
+类	E
+过	O
+敏	O
+
+对	O
+川	B
+穹	I
+秦	E
+过	O
+敏	O
+
+
+“	O
+青	B
+霉	I
+素	E
+”	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+时	O
+对	O
+“	O
+海	O
+鲜	O
+”	O
+过	O
+敏	O
+
+有	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+（	O
+皮	O
+疹	O
+）	O
+
+饮	O
+酒	O
+史	O
+无	O
+，	O
+无	O
+药	O
+物	O
+及	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+破	B
+伤	I
+风	E
+”	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+虾	O
+皮	O
+过	O
+敏	O
+史	O
+
+既	O
+往	O
+有	O
+磺	B
+胺	I
+类	I
+药	E
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+二	B
+甲	I
+双	I
+胍	E
+”	O
+、	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+阿	B
+司	I
+匹	I
+林	E
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+鱼	O
+肉	O
+”	O
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+及	O
+红	B
+霉	I
+素	E
+过	O
+敏	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+红	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+去	B
+痛	I
+片	E
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+食	O
+物	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+及	O
+视	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+,	O
+对	O
+鱼	O
+虾	O
+可	O
+能	O
+过	O
+敏	O
+
+有	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+过	O
+敏	O
+史	O
+
+对	O
+紫	O
+外	O
+线	O
+及	O
+阿	B
+司	I
+匹	I
+林	I
+片	E
+过	O
+敏	O
+（	O
+皮	O
+疹	O
+）	O
+
+对	O
+磺	B
+胺	E
+过	O
+敏	O
+。	O
+无	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+药	I
+物	E
+过	O
+敏	O
+
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+乙	B
+酰	I
+水	I
+杨	I
+酸	E
+、	O
+磺	B
+胺	I
+药	E
+、	O
+青	B
+霉	I
+素	E
+等	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+前	B
+列	I
+地	I
+尔	E
+过	O
+敏	O
+史	O
+、	O
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+药	O
+物	O
+应	O
+用	O
+有	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+过	O
+敏	O
+史	O
+
+对	O
+芋	O
+头	O
+、	O
+山	O
+药	O
+、	O
+菠	O
+萝	O
+过	O
+敏	O
+
+有	O
+海	O
+鲜	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+敏	O
+史	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+（	O
+头	B
+孢	I
+类	E
+过	O
+敏	O
+）	O
+
+
+食	O
+用	O
+螃	O
+蟹	O
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+有	O
+磺	B
+胺	I
+类	E
+、	O
+青	B
+霉	I
+素	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+、	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+（	O
+热	O
+毒	O
+宁	O
+）	O
+
+患	O
+者	O
+为	O
+过	O
+敏	O
+体	O
+质	O
+，	O
+有	O
+食	O
+物	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+“	O
+舒	B
+血	I
+宁	E
+及	O
+疏	B
+血	I
+通	E
+”	O
+过	O
+敏	O
+史	O
+
+描	O
+述	O
+青	B
+霉	I
+素	E
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+诉	O
+对	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	E
+过	O
+敏	O
+
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+。	O
+对	O
+羊	O
+肉	O
+、	O
+海	O
+鲜	O
+过	O
+敏	O
+
+对	O
+拜	B
+糖	I
+平	E
+过	O
+敏	O
+
+对	O
+“	O
+造	B
+影	I
+剂	E
+”	O
+过	O
+敏	O
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+皮	O
+试	O
+液	O
+”	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+。	O
+
+有	O
+头	B
+孢	I
+菌	I
+素	E
+过	O
+敏	O
+史	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+：	O
+酒	O
+精	O
+和	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+史	O
+
+药	O
+物	O
+应	O
+用	O
+无	O
+过	O
+敏	O
+
+描	O
+述	O
+有	O
+磺	B
+胺	I
+药	E
+过	O
+敏	O
+史	O
+
+有	O
+橡	O
+皮	O
+鱼	O
+、	O
+造	B
+影	I
+剂	E
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+过	O
+史	O
+
+对	O
+海	O
+鲜	O
+、	O
+花	O
+粉	O
+、	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+等	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+；	O
+酒	O
+精	O
+、	O
+棉	B
+絮	I
+等	E
+过	O
+敏	O
+史	O
+
+诉	O
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+“	O
+鱼	O
+虾	O
+类	O
+食	O
+物	O
+”	O
+过	O
+敏	O
+
+我	O
+院	O
+急	O
+诊	O
+示	O
+对	O
+拉	B
+氧	I
+头	I
+孢	E
+、	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+、	O
+虾	O
+类	O
+过	O
+敏	O
+
+对	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+描	O
+述	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+,	O
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+
+对	O
+青	B
+霉	I
+素	E
+及	O
+磺	B
+胺	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+具	O
+体	O
+药	O
+物	O
+不	O
+详	O
+
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+！	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+及	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+(	O
+2	O
+0	O
+年	O
+前	O
+有	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+过	O
+敏	O
+史	O
+)	O
+
+对	O
+“	O
+复	B
+方	I
+双	I
+花	I
+注	I
+射	I
+液	E
+”	O
+过	O
+敏	O
+
+自	O
+诉	O
+中	B
+药	E
+过	O
+敏	O
+
+对	O
+羊	O
+肉	O
+过	O
+敏	O
+
+“	B
+磺	I
+胺	I
+类	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+虾	O
+”	O
+过	O
+敏	O
+
+对	O
+增	B
+效	I
+联	I
+黄	I
+片	E
+过	O
+敏	O
+
+描	O
+述	O
+地	B
+红	I
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+芥	O
+菜	O
+过	O
+敏	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+：	O
+对	O
+“	O
+抗	B
+生	I
+素	E
+”	O
+过	O
+敏	O
+
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+、	O
+“	O
+庆	B
+大	I
+霉	I
+素	E
+”	O
+“	O
+某	B
+种	I
+头	I
+孢	I
+菌	I
+素	E
+”	O
+“	O
+磺	B
+胺	I
+类	E
+”	O
+过	O
+敏	O
+
+有	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	I
+类	E
+、	O
+希	B
+克	I
+劳	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+及	O
+头	B
+孢	I
+米	I
+诺	I
+皮	I
+试	I
+液	E
+过	O
+敏	O
+,	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+头	B
+孢	I
+拉	I
+定	E
+、	O
+头	B
+孢	I
+噻	I
+肟	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+。	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+去	B
+痛	I
+片	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+“	O
+双	B
+黄	I
+连	E
+”	O
+过	O
+敏	O
+史	O
+
+描	O
+述	O
+：	O
+对	O
+“	O
+增	B
+效	I
+联	I
+磺	E
+”	O
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+拉	B
+莫	I
+三	I
+嗪	E
+过	O
+敏	O
+
+有	O
+氨	B
+茶	I
+碱	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+及	O
+阿	B
+司	I
+匹	I
+林	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+，	O
+食	O
+物	O
+对	O
+桃	O
+子	O
+过	O
+敏	O
+
+链	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+
+对	O
+磺	B
+胺	I
+药	I
+物	E
+过	O
+敏	O
+
+有	O
+磺	B
+胺	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+鲜	O
+黄	O
+花	O
+菜	O
+”	O
+过	O
+敏	O
+
+食	O
+物	O
+药	O
+物	O
+无	O
+过	O
+敏	O
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+”	O
+过	O
+敏	O
+
+对	O
+“	O
+磺	B
+胺	E
+”	O
+过	O
+敏	O
+
+对	O
+海	B
+鲜	I
+和	I
+碘	E
+过	O
+敏	O
+
+对	O
+滑	B
+石	I
+粉	E
+过	O
+敏	O
+
+对	O
+“	B
+头	I
+孢	I
+类	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+“	O
+苹	O
+果	O
+”	O
+过	O
+敏	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+（	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+）	O
+
+“	O
+阿	B
+莫	I
+西	I
+林	E
+”	O
+过	O
+敏	O
+
+描	O
+述	O
+青	B
+霉	I
+素	E
+及	O
+碘	B
+造	I
+影	E
+剂	O
+皮	O
+试	O
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	E
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+瑞	B
+舒	I
+伐	I
+他	I
+汀	I
+钙	E
+”	O
+过	O
+敏	O
+
+
+对	O
+酒	O
+精	O
+、	O
+环	B
+比	I
+沙	I
+星	E
+、	O
+磺	B
+胺	E
+过	O
+敏	O
+
+诉	O
+对	O
+海	O
+鲜	O
+过	O
+敏	O
+
+磺	B
+胺	I
+类	E
+“	O
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+菌	I
+素	E
+过	O
+敏	O
+
+有	O
+麻	B
+醉	I
+药	E
+及	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+双	B
+黄	I
+连	E
+”	O
+过	O
+敏	O
+
+有	O
+“	O
+头	B
+孢	E
+、	O
+四	B
+环	I
+素	E
+”	O
+过	O
+敏	O
+史	O
+
+有	O
+“	O
+酒	O
+精	O
+”	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+皮	O
+试	O
+过	O
+敏	O
+一	O
+次	O
+
+描	O
+述	O
+青	B
+霉	I
+素	E
+批	O
+号	O
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+曾	O
+有	O
+“	O
+青	B
+霉	I
+素	E
+、	O
+酒	O
+精	O
+、	O
+碘	B
+酒	E
+”	O
+过	O
+敏	O
+史	O
+
+“	O
+青	B
+霉	I
+素	E
+”	O
+过	O
+敏	O
+
+辛	O
+辣	O
+食	O
+物	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+阿	B
+奇	I
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+头	B
+孢	I
+呋	I
+辛	E
+”	O
+过	O
+
+
+对	O
+“	O
+痰	B
+热	I
+清	E
+”	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+皮	O
+试	O
+液	O
+过	O
+敏	O
+史	O
+
+描	O
+述	O
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+药	O
+物	O
+过	O
+敏	O
+史	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+苯	O
+巴	O
+比	O
+妥	O
+”	O
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+及	O
+链	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+类	O
+药	O
+物	O
+过	O
+敏	O
+
+对	O
+去	B
+痛	I
+片	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+、	O
+庆	B
+大	I
+霉	I
+素	E
+、	O
+海	O
+鲜	O
+过	O
+敏	O
+
+对	O
+含	O
+有	O
+“	B
+水	I
+杨	I
+酸	I
+类	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+描	O
+述	O
+“	B
+氨	I
+茶	I
+碱	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+韭	O
+菜	O
+、	O
+虾	O
+皮	O
+过	O
+敏	O
+
+磺	B
+胺	I
+类	E
+和	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+其	O
+他	O
+药	O
+物	O
+或	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+皮	O
+试	O
+阳	O
+性	O
+
+虾	O
+类	O
+过	O
+敏	O
+
+有	O
+去	B
+疼	I
+片	E
+过	O
+敏	O
+史	O
+
+对	O
+碘	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+海	O
+鲜	O
+、	O
+辣	O
+椒	O
+过	O
+敏	O
+
+庆	B
+大	I
+霉	I
+素	E
+、	O
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+及	O
+先	B
+锋	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+自	O
+诉	O
+对	O
+“	O
+复	B
+方	I
+磺	I
+胺	I
+类	I
+药	I
+物	E
+”	O
+过	O
+敏	O
+
+服	O
+药	O
+时	O
+间	O
+约	O
+半	O
+月	O
+。	O
+无	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+阿	B
+司	I
+匹	I
+林	E
+及	O
+海	O
+鲜	O
+过	O
+敏	O
+
+对	O
+碘	B
+剂	E
+过	O
+敏	O
+
+对	O
+“	O
+醋	O
+”	O
+过	O
+敏	O
+
+有	O
+“	O
+去	B
+痛	I
+片	E
+”	O
+过	O
+敏	O
+史	O
+
+1	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+金	O
+属	O
+过	O
+敏	O
+
+左	B
+氧	I
+氟	I
+沙	I
+星	E
+过	O
+敏	O
+
+描	O
+述	O
+曾	O
+有	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+及	O
+丹	B
+红	I
+注	I
+射	I
+液	E
+过	O
+敏	O
+
+自	O
+诉	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	E
+及	O
+链	B
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+造	B
+影	I
+剂	E
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+解	B
+热	I
+镇	I
+痛	I
+片	E
+”	O
+过	O
+敏	O
+
+A	B
+P	I
+C	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+其	O
+他	O
+药	O
+物	O
+或	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+描	O
+述	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+有	O
+青	B
+霉	I
+素	E
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+“	O
+红	B
+霉	I
+素	E
+”	O
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+皮	O
+试	O
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+。	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+停	O
+药	O
+药	O
+物	O
+，	O
+皮	O
+疹	O
+消	O
+退	O
+）	O
+、	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	I
+类	I
+药	E
+过	O
+敏	O
+
+有	O
+“	O
+磺	B
+胺	I
+类	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+磺	B
+胺	I
+类	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+、	O
+“	O
+美	B
+士	I
+灵	E
+”	O
+过	O
+敏	O
+
+对	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+史	O
+
+“	O
+磺	B
+胺	I
+类	E
+”	O
+过	O
+敏	O
+
+对	O
+磺	B
+胺	I
+类	E
+及	O
+青	B
+霉	I
+素	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+；	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+云	B
+南	I
+白	I
+药	E
+过	O
+敏	O
+
+胶	O
+布	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+特	O
+殊	O
+药	O
+物	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+安	B
+痛	I
+定	E
+及	O
+维	B
+生	I
+素	I
+B	I
+6	E
+过	O
+敏	O
+
+对	O
+“	O
+磺	B
+胺	I
+类	E
+”	O
+及	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+过	O
+敏	O
+
+有	O
+蚂	O
+蚱	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+氨	B
+基	I
+酸	E
+、	O
+海	O
+鲜	O
+”	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+皮	O
+试	O
+过	O
+敏	O
+
+对	O
+“	O
+瑞	B
+舒	I
+伐	I
+他	I
+汀	I
+钙	I
+片	E
+”	O
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+及	O
+甲	B
+钴	I
+胺	E
+过	O
+敏	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+：	O
+磺	B
+胺	I
+类	E
+，	O
+青	B
+霉	I
+素	I
+类	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+、	O
+头	B
+孢	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	E
+、	O
+青	B
+霉	I
+素	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+，	O
+无	O
+食	O
+物	O
+过	O
+敏	O
+
+对	O
+酒	O
+精	O
+过	O
+敏	O
+
+有	O
+青	B
+霉	I
+素	I
+类	I
+药	I
+物	E
+及	O
+多	O
+种	O
+药	O
+物	O
+（	O
+患	O
+者	O
+表	O
+述	O
+不	O
+清	O
+具	O
+体	O
+是	O
+何	O
+种	O
+药	O
+物	O
+）	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+激	B
+素	E
+”	O
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+黄	O
+瓜	O
+过	O
+敏	O
+
+
+有	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+（	O
+具	O
+体	O
+不	O
+详	O
+）	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+：	O
+
+青	B
+霉	I
+素	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+链	B
+霉	I
+素	E
+过	O
+敏	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+酒	O
+精	O
+和	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+史	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	E
+有	O
+皮	O
+疹	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	E
+，	O
+青	B
+霉	I
+素	I
+类	E
+过	O
+敏	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	E
+，	O
+青	B
+霉	I
+素	I
+类	E
+过	O
+敏	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+发	O
+病	O
+1	O
+月	O
+前	O
+“	O
+染	O
+发	O
+”	O
+后	O
+过	O
+敏	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+海	O
+鲜	O
+类	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+（	O
+头	B
+孢	I
+类	E
+过	O
+敏	O
+）	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+,	O
+
+对	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+长	B
+春	I
+西	I
+汀	E
+过	O
+敏	O
+史	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+示	O
+
+对	O
+磺	B
+胺	E
+过	O
+敏	O
+
+无	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+头	B
+孢	I
+类	E
+”	O
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+抗	B
+生	I
+素	E
+”	O
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+
+对	O
+红	B
+霉	I
+素	E
+过	O
+敏	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+阿	B
+莫	I
+西	I
+林	E
+过	O
+敏	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	E
+，	O
+青	B
+霉	I
+素	I
+类	E
+过	O
+敏	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+酒	O
+精	O
+和	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+描	O
+述	O
+磺	B
+胺	I
+类	E
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+否	O
+认	O
+心	O
+脏	O
+病	O
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+（	O
+皮	O
+试	O
+阳	O
+性	O
+）	O
+
+无	O
+食	O
+物	O
+及	O
+花	O
+粉	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+（	O
+皮	O
+试	O
+阳	O
+性	O
+）	O
+
+无	O
+食	O
+物	O
+及	O
+花	O
+粉	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	E
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	E
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+头	B
+孢	I
+类	E
+”	O
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+（	O
+具	O
+体	O
+药	O
+物	O
+叙	O
+述	O
+不	O
+清	O
+）	O
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+有	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+（	O
+具	O
+体	O
+药	O
+物	O
+不	O
+详	O
+）	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+（	O
+具	O
+体	O
+药	O
+物	O
+不	O
+详	O
+）	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+及	O
+红	B
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+及	O
+红	B
+霉	I
+素	E
+过	O
+敏	O
+
+无	O
+特	O
+定	O
+过	O
+敏	O
+食	O
+物	O
+及	O
+药	O
+物	O
+
+可	O
+能	O
+对	O
+花	O
+粉	O
+、	O
+鱼	O
+虾	O
+过	O
+敏	O
+
+无	O
+特	O
+定	O
+过	O
+敏	O
+食	O
+物	O
+及	O
+药	O
+物	O
+
+可	O
+能	O
+对	O
+花	O
+粉	O
+、	O
+鱼	O
+虾	O
+过	O
+敏	O
+
+无	O
+特	O
+定	O
+过	O
+敏	O
+食	O
+物	O
+及	O
+药	O
+物	O
+
+可	O
+能	O
+对	O
+花	O
+粉	O
+、	O
+鱼	O
+虾	O
+过	O
+敏	O
+
+头	B
+孢	I
+哌	I
+酮	I
+钠	I
+舒	I
+巴	I
+坦	E
+皮	O
+试	O
+、	O
+头	B
+孢	I
+拉	I
+氧	E
+皮	O
+试	O
+阳	O
+性	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+头	B
+孢	I
+哌	I
+酮	I
+钠	I
+舒	I
+巴	I
+坦	E
+皮	O
+试	O
+、	O
+头	O
+孢	B
+拉	I
+氧	E
+皮	O
+试	O
+阳	O
+性	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+皮	O
+试	O
+阳	O
+性	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+描	O
+述	O
+青	B
+霉	I
+素	E
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+描	O
+述	O
+具	O
+体	O
+药	O
+物	O
+不	O
+详	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+自	O
+诉	O
+既	O
+往	O
+“	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+
+对	O
+“	O
+去	B
+痛	I
+片	E
+”	O
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+”	O
+过	O
+敏	O
+史	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+鱼	O
+虾	O
+可	O
+能	O
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+（	O
+皮	O
+试	O
+阳	O
+性	O
+）	O
+
+无	O
+食	O
+物	O
+及	O
+花	O
+粉	O
+过	O
+敏	O
+史	O
+
+对	O
+头	B
+孢	I
+类	E
+、	O
+庆	B
+大	I
+霉	I
+素	E
+过	O
+敏	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+药	I
+物	E
+过	O
+敏	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+磺	B
+胺	I
+类	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+酒	O
+类	O
+”	O
+过	O
+敏	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+“	O
+青	B
+霉	I
+素	E
+、	O
+先	B
+锋	I
+类	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+无	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+阿	B
+司	I
+匹	I
+林	E
+、	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+描	O
+述	O
+青	B
+霉	I
+素	E
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+头	B
+孢	I
+地	I
+尼	E
+"	O
+过	O
+敏	O
+！	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+食	O
+物	O
+有	O
+鸡	O
+蛋	O
+、	O
+牛	O
+奶	O
+过	O
+敏	O
+
+磺	B
+胺	I
+类	E
+和	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+及	O
+阿	B
+司	I
+匹	I
+林	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+描	O
+述	O
+青	B
+霉	I
+素	E
+及	O
+碘	B
+造	I
+影	E
+剂	O
+皮	O
+试	O
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+描	O
+述	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+描	O
+述	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+描	O
+述	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+自	O
+诉	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+磺	B
+胺	I
+类	E
+”	O
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+描	O
+述	O
+：	O
+对	O
+“	O
+增	B
+效	I
+联	I
+磺	E
+”	O
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+桃	O
+毛	O
+过	O
+敏	O
+史	O
+
+有	O
+“	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+”	O
+过	O
+敏	O
+史	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+对	O
+“	B
+头	I
+孢	I
+类	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+、	O
+青	B
+霉	I
+素	E
+、	O
+庆	B
+大	I
+霉	I
+素	E
+及	O
+酒	O
+精	O
+过	O
+敏	O
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+描	O
+述	O
+“	B
+氨	I
+茶	I
+碱	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+二	B
+甲	I
+双	I
+胍	E
+”	O
+、	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	E
+、	O
+青	B
+霉	I
+素	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+
+描	O
+述	O
+磺	B
+胺	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+去	B
+痛	I
+片	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+描	O
+述	O
+青	B
+霉	I
+素	E
+批	O
+号	O
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+,	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+血	B
+栓	I
+通	E
+、	O
+长	B
+春	I
+西	I
+汀	E
+过	O
+敏	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+
+过	O
+敏	O
+史	O
+：	O
+否	O
+认	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+。	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+卡	B
+马	I
+西	I
+平	E
+过	O
+敏	O
+
+
+有	O
+前	B
+列	I
+地	I
+尔	E
+过	O
+敏	O
+史	O
+
+疑	O
+似	O
+花	O
+粉	O
+过	O
+敏	O
+
+均	O
+因	O
+药	O
+物	O
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+去	B
+痛	I
+片	E
+、	O
+阿	B
+司	I
+匹	I
+林	E
+过	O
+敏	O
+
+对	O
+牛	O
+肉	O
+、	O
+花	O
+粉	O
+过	O
+敏	O
+
+对	O
+阿	B
+莫	I
+西	I
+林	I
+片	E
+过	O
+敏	O
+
+过	O
+敏	O
+症	O
+状	O
+为	O
+皮	O
+疹	O
+
+断	O
+“	O
+过	O
+敏	O
+”	O
+
+阿	B
+司	I
+匹	I
+林	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+左	B
+氧	I
+氟	I
+沙	I
+星	E
+、	O
+天	B
+麻	I
+素	E
+过	O
+敏	O
+
+对	O
+磺	B
+胺	I
+类	E
+、	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	E
+及	O
+左	B
+氧	I
+氟	I
+沙	I
+星	E
+过	O
+敏	O
+
+对	O
+磺	B
+胺	E
+、	O
+灯	B
+盏	I
+花	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+美	B
+满	I
+霉	I
+素	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+水	B
+杨	I
+酸	E
+、	O
+磺	B
+胺	I
+、	I
+苯	I
+甲	I
+酸	I
+钠	E
+、	O
+榛	B
+子	I
+等	E
+过	O
+敏	O
+
+对	O
+手	O
+术	O
+缝	O
+线	O
+过	O
+敏	O
+
+磺	B
+胺	E
+过	O
+敏	O
+史	O
+
+自	O
+诉	O
+对	O
+磺	B
+胺	E
+、	O
+去	B
+痛	I
+片	E
+过	O
+敏	O
+
+
+苯	B
+甲	I
+酸	I
+钠	I
+，	I
+造	I
+影	I
+剂	E
+过	O
+敏	O
+史	O
+
+过	O
+敏	O
+反	O
+应	O
+为	O
+皮	O
+疹	O
+
+自	O
+述	O
+对	O
+芒	O
+果	O
+过	O
+敏	O
+
+对	O
+链	B
+霉	I
+素	E
+、	O
+新	B
+斯	I
+的	I
+明	E
+过	O
+敏	O
+
+对	O
+酒	O
+精	O
+、	O
+磺	B
+胺	E
+及	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+青	B
+链	I
+霉	I
+素	E
+、	O
+卡	B
+那	I
+霉	I
+素	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+过	O
+敏	O
+表	O
+现	O
+为	O
+全	O
+身	O
+疱	O
+疹	O
+
+药	O
+物	O
+过	O
+敏	O
+史	O
+：	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	E
+、	O
+喹	B
+诺	I
+酮	E
+过	O
+敏	O
+
+否	O
+认	O
+外	O
+伤	O
+、	O
+输	O
+血	O
+、	O
+药	O
+物	O
+及	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+阿	B
+司	I
+匹	I
+林	I
+肠	I
+溶	I
+片	E
+、	O
+倍	B
+他	I
+乐	I
+克	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+，	O
+磺	B
+胺	I
+类	I
+，	I
+氯	I
+吡	I
+咯	I
+雷	E
+过	O
+敏	O
+
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+有	O
+海	O
+鲜	O
+及	O
+鸡	O
+蛋	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	E
+、	O
+血	B
+清	E
+过	O
+敏	O
+
+进	O
+食	O
+猕	O
+猴	O
+桃	O
+过	O
+敏	O
+史	O
+
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+“	B
+丹	I
+参	E
+”	O
+过	O
+敏	O
+
+否	O
+认	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+对	O
+螨	O
+虫	O
+及	O
+尘	O
+土	O
+过	O
+敏	O
+
+无	O
+其	O
+它	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+、	O
+卡	B
+那	I
+霉	I
+素	E
+、	O
+新	B
+青	I
+霉	I
+素	E
+“	O
+过	O
+敏	O
+（	O
+恶	O
+心	O
+、	O
+呕	O
+吐	O
+）	O
+
+对	O
+“	O
+痢	B
+特	I
+灵	E
+”	O
+过	O
+敏	O
+（	O
+皮	O
+疹	O
+）	O
+
+曾	O
+有	O
+阿	B
+司	I
+匹	I
+林	E
+过	O
+敏	O
+史	O
+
+既	O
+往	O
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+食	O
+品	O
+添	O
+加	O
+剂	O
+“	O
+山	B
+梨	I
+酸	I
+钾	E
+、	O
+氯	B
+菊	I
+酯	E
+”	O
+及	O
+含	O
+食	O
+品	O
+添	O
+加	O
+剂	O
+的	O
+食	O
+物	O
+过	O
+敏	O
+
+硝	B
+酸	I
+甘	I
+油	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+银	B
+杏	I
+叶	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+及	O
+地	B
+卡	I
+因	E
+过	O
+敏	O
+
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	E
+、	O
+阿	B
+莫	I
+西	I
+林	E
+、	O
+硝	B
+酸	I
+甘	I
+油	E
+、	O
+安	B
+痛	I
+定	E
+等	O
+药	O
+物	O
+过	O
+敏	O
+
+玉	O
+米	O
+，	O
+味	O
+精	O
+过	O
+敏	O
+史	O
+
+对	O
+海	O
+鲜	O
+等	O
+食	O
+物	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	I
+类	E
+、	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+对	O
+“	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	E
+、	O
+链	B
+霉	I
+素	E
+、	O
+花	O
+粉	O
+”	O
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+解	B
+热	I
+镇	I
+痛	I
+药	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+磺	B
+胺	E
+、	O
+甲	B
+硝	I
+唑	E
+过	O
+敏	O
+
+曾	O
+行	O
+皮	O
+试	O
+有	O
+头	B
+孢	I
+类	E
+过	O
+敏	O
+史	O
+
+对	O
+扑	B
+尔	I
+敏	E
+、	O
+青	B
+霉	I
+素	E
+、	O
+庆	B
+大	I
+霉	I
+素	E
+、	O
+阿	B
+司	I
+匹	I
+林	E
+过	O
+敏	O
+
+头	B
+孢	I
+菌	I
+素	I
+类	E
+、	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+抗	O
+过	O
+敏	O
+缓	O
+解	O
+
+青	B
+霉	I
+素	I
+类	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+既	O
+往	O
+有	O
+青	B
+霉	I
+素	E
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+过	O
+敏	O
+源	O
+检	O
+测	O
+“	O
+海	O
+鲜	O
+”	O
+“	O
+粉	O
+尘	O
+”	O
+阳	O
+性	O
+
+链	B
+霉	I
+素	E
+过	O
+敏	O
+
+虾	O
+等	O
+海	O
+产	O
+品	O
+过	O
+敏	O
+
+过	O
+敏	O
+症	O
+状	O
+为	O
+头	O
+晕	O
+
+硝	B
+酸	I
+甘	I
+油	E
+、	O
+盐	B
+酸	I
+替	I
+罗	I
+非	I
+班	E
+可	O
+疑	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+泰	B
+勒	I
+宁	E
+过	O
+敏	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+”	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+“	O
+头	B
+孢	I
+类	I
+药	E
+、	O
+哌	B
+拉	I
+西	I
+林	E
+、	O
+美	B
+罗	I
+培	I
+南	E
+”	O
+等	O
+多	O
+种	O
+抗	B
+生	I
+素	E
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+硝	B
+苯	I
+地	I
+平	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+对	O
+头	B
+孢	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+辛	B
+伐	I
+他	I
+汀	E
+、	O
+C	B
+T	I
+增	I
+强	I
+造	I
+影	I
+剂	E
+过	O
+敏	O
+
+对	O
+头	B
+孢	I
+哌	I
+酮	I
+舒	I
+巴	I
+坦	E
+及	O
+盐	O
+酸	O
+头	B
+孢	I
+吡	I
+肟	I
+药	I
+物	E
+过	O
+敏	O
+
+碘	B
+剂	E
+过	O
+敏	O
+
+对	O
+“	O
+红	O
+花	O
+针	O
+”	O
+过	O
+敏	O
+
+药	O
+物	O
+过	O
+敏	O
+不	O
+详	O
+
+去	O
+年	O
+输	B
+丹	I
+红	E
+时	O
+似	O
+有	O
+过	O
+敏	O
+
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+及	O
+灭	B
+滴	I
+灵	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+阿	B
+齐	I
+霉	I
+素	E
+及	O
+造	B
+影	I
+剂	E
+、	O
+表	B
+面	I
+麻	I
+醉	I
+剂	I
+等	E
+过	O
+敏	O
+
+有	O
+甲	B
+硝	I
+唑	E
+、	O
+苯	B
+巴	I
+比	I
+妥	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+药	E
+、	O
+去	B
+痛	I
+片	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+对	O
+葱	O
+蒜	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+曾	O
+对	O
+花	O
+粉	O
+、	O
+罗	B
+红	I
+霉	I
+素	E
+及	O
+胺	O
+碘	B
+酮	I
+注	I
+射	I
+液	E
+（	O
+曾	O
+出	O
+现	O
+严	O
+重	O
+呼	O
+吸	O
+困	O
+难	O
+）	O
+过	O
+敏	O
+
+既	O
+往	O
+有	O
+造	B
+影	I
+剂	E
+过	O
+敏	O
+史	O
+
+磺	B
+胺	E
+及	O
+青	B
+霉	I
+素	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+
+青	B
+霉	I
+素	E
+、	O
+庆	B
+大	I
+霉	I
+素	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+及	O
+头	B
+孢	I
+类	E
+过	O
+敏	O
+
+对	O
+酒	O
+精	O
+、	O
+碘	E
+过	O
+敏	O
+
+曾	O
+对	O
+磺	B
+胺	I
+和	I
+链	I
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+、	O
+来	B
+立	I
+信	E
+、	O
+利	B
+复	I
+星	E
+、	O
+希	B
+刻	I
+劳	E
+、	O
+硫	B
+酸	I
+依	I
+替	I
+米	I
+星	E
+过	O
+敏	O
+
+磺	B
+胺	I
+药	I
+物	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+、	O
+激	B
+素	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+、	O
+花	O
+粉	O
+过	O
+敏	O
+
+刺	B
+五	I
+加	E
+过	O
+敏	O
+史	O
+
+既	O
+往	O
+有	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+史	O
+
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+先	B
+锋	I
+霉	I
+素	E
+过	O
+敏	O
+
+海	O
+鲜	O
+类	O
+等	O
+过	O
+敏	O
+
+对	O
+血	B
+管	I
+造	I
+影	I
+剂	E
+过	O
+敏	O
+
+对	O
+硝	B
+酸	I
+异	I
+山	I
+梨	I
+酯	E
+过	O
+敏	O
+
+对	O
+磺	B
+胺	I
+类	E
+、	O
+青	B
+霉	I
+素	E
+、	O
+银	B
+杏	I
+制	I
+剂	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+，	O
+头	B
+孢	E
+过	O
+敏	O
+
+对	O
+调	O
+料	O
+过	O
+敏	O
+
+患	O
+者	O
+对	O
+“	B
+头	I
+孢	I
+类	E
+”	O
+、	O
+“	O
+青	B
+霉	I
+素	I
+类	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+患	O
+者	O
+自	O
+诉	O
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+
+对	O
+“	O
+啤	O
+酒	O
+花	O
+”	O
+等	O
+食	O
+物	O
+过	O
+敏	O
+
+阿	B
+昔	I
+莫	I
+司	I
+胶	I
+囊	E
+过	O
+敏	O
+史	O
+
+碘	B
+剂	I
+药	I
+物	E
+过	O
+敏	O
+
+林	B
+可	I
+霉	I
+素	E
+过	O
+敏	O
+
+克	B
+林	I
+霉	I
+素	E
+、	O
+甲	B
+硝	I
+唑	E
+过	O
+敏	O
+
+既	O
+往	O
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+有	O
+局	B
+麻	I
+药	E
+过	O
+敏	O
+史	O
+
+对	O
+鱼	O
+类	O
+食	O
+物	O
+过	O
+敏	O
+
+阿	B
+奇	I
+霉	I
+素	E
+、	O
+磺	B
+胺	E
+及	O
+痢	B
+特	I
+灵	E
+过	O
+敏	O
+
+有	O
+复	B
+方	I
+新	I
+诺	I
+明	E
+过	O
+敏	O
+史	O
+
+
+自	O
+述	O
+“	B
+丹	I
+红	I
+注	I
+射	I
+液	E
+过	O
+敏	O
+”	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+药	O
+物	O
+过	O
+敏	O
+
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+和	O
+牦	O
+牛	O
+酒	O
+过	O
+敏	O
+
+造	B
+影	I
+剂	I
+：	I
+碘	I
+克	I
+沙	I
+醇	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	E
+、	O
+阿	B
+莫	I
+西	I
+林	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+外	O
+伤	O
+、	O
+手	O
+术	O
+及	O
+无	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+酒	O
+精	O
+过	O
+敏	O
+
+海	O
+鲜	O
+及	O
+青	B
+霉	I
+素	E
+，	O
+心	B
+痛	I
+定	E
+等	O
+多	O
+种	O
+药	O
+物	O
+过	O
+敏	O
+
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	E
+、	O
+阿	B
+莫	I
+西	I
+林	E
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+鱼	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+菌	B
+必	I
+治	E
+过	O
+敏	O
+
+对	O
+酒	O
+精	O
+过	O
+敏	O
+
+磺	B
+胺	I
+类	E
+、	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+芒	O
+果	O
+过	O
+敏	O
+
+对	O
+某	B
+种	I
+胃	I
+药	E
+过	O
+敏	O
+具	O
+体	O
+不	O
+详	O
+
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+、	O
+舒	B
+血	I
+宁	E
+、	O
+银	B
+杏	I
+提	I
+取	I
+物	E
+过	O
+敏	O
+
+
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+菌	I
+素	I
+类	E
+过	O
+敏	O
+史	O
+
+既	O
+往	O
+对	O
+鸭	O
+毛	O
+等	O
+过	O
+敏	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+自	O
+述	O
+服	O
+用	O
+某	B
+降	I
+脂	I
+药	E
+过	O
+敏	O
+具	O
+体	O
+不	O
+详	O
+
+美	B
+托	I
+洛	I
+尔	E
+过	O
+敏	O
+史	O
+
+对	O
+阿	B
+司	I
+匹	I
+林	I
+肠	I
+溶	I
+片	E
+过	O
+敏	O
+
+对	O
+头	B
+孢	I
+类	E
+及	O
+左	B
+氧	I
+氟	I
+沙	I
+星	E
+过	O
+敏	O
+
+既	O
+往	O
+有	O
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+对	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+先	B
+锋	E
+过	O
+敏	O
+
+对	O
+鸡	O
+蛋	O
+、	O
+木	O
+耳	O
+、	O
+青	O
+椒	O
+、	O
+磺	B
+胺	I
+药	E
+过	O
+敏	O
+
+
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+对	O
+“	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+、	O
+酒	O
+精	O
+”	O
+过	O
+敏	O
+
+偶	O
+对	O
+海	O
+鲜	O
+过	O
+敏	O
+
+否	O
+认	O
+其	O
+他	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+过	O
+敏	O
+1	O
+次	O
+
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	E
+、	O
+四	B
+环	I
+素	E
+及	O
+头	B
+孢	I
+菌	I
+素	I
+类	E
+过	O
+敏	O
+
+有	O
+碘	B
+剂	E
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+和	O
+链	B
+霉	I
+素	E
+过	O
+敏	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+破	B
+伤	I
+风	I
+疫	I
+苗	E
+曾	O
+发	O
+生	O
+过	O
+敏	O
+反	O
+应	O
+
+
+对	O
+海	O
+产	O
+品	O
+、	O
+青	B
+霉	I
+素	E
+间	O
+断	O
+过	O
+敏	O
+
+“	O
+地	B
+塞	I
+米	I
+松	E
+、	O
+丹	B
+参	E
+”	O
+过	O
+敏	O
+
+食	O
+物	O
+、	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+不	O
+详	O
+
+既	O
+往	O
+对	O
+“	O
+左	B
+氧	I
+氟	I
+沙	I
+星	E
+、	O
+阿	B
+莫	I
+西	I
+林	E
+”	O
+药	O
+物	O
+过	O
+敏	O
+
+对	O
+左	B
+氧	I
+氟	I
+沙	I
+星	E
+及	O
+阿	B
+奇	I
+霉	I
+素	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+颠	B
+茄	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+奴	B
+夫	I
+卡	I
+因	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+，	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+
+既	O
+往	O
+对	O
+“	O
+米	B
+格	I
+来	I
+宁	E
+”	O
+过	O
+敏	O
+
+酒	O
+精	O
+过	O
+敏	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+有	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+自	O
+以	O
+为	O
+过	O
+敏	O
+
+维	B
+生	I
+素	I
+K	I
+1	E
+过	O
+敏	O
+
+既	O
+往	O
+对	O
+“	O
+磺	B
+胺	I
+类	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+磺	B
+胺	E
+及	O
+苯	B
+巴	I
+比	I
+妥	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+花	O
+粉	O
+、	O
+粉	O
+尘	O
+过	O
+敏	O
+
+既	O
+往	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+、	O
+呋	B
+喃	I
+西	I
+林	E
+、	O
+四	B
+环	I
+素	E
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+鸡	O
+蛋	O
+过	O
+敏	O
+
+对	O
+去	B
+痛	I
+片	E
+、	O
+鸡	O
+肉	O
+过	O
+敏	O
+
+对	O
+痢	B
+特	I
+灵	E
+过	O
+敏	O
+（	O
+表	O
+现	O
+为	O
+全	O
+身	O
+皮	O
+疹	O
+）	O
+
+诉	O
+对	O
+“	O
+土	B
+霉	I
+素	E
+”	O
+有	O
+过	O
+敏	O
+史	O
+
+有	O
+A	B
+P	I
+C	E
+、	O
+磺	B
+胺	I
+类	E
+、	O
+青	B
+、	I
+链	I
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+局	B
+麻	I
+药	E
+过	O
+敏	O
+
+有	O
+花	O
+粉	O
+及	O
+粉	O
+尘	O
+过	O
+敏	O
+
+曾	O
+有	O
+阿	B
+莫	I
+西	I
+林	E
+过	O
+敏	O
+史	O
+
+无	O
+食	O
+物	O
+药	O
+物	O
+过	O
+敏	O
+
+
+对	O
+"	B
+前	I
+列	I
+地	I
+尔	E
+"	O
+过	O
+敏	O
+
+磺	B
+胺	E
+、	O
+链	B
+霉	I
+素	E
+过	O
+敏	O
+
+否	O
+认	O
+手	O
+术	O
+、	O
+外	O
+伤	O
+、	O
+输	O
+血	O
+史	O
+，	O
+过	O
+敏	O
+体	O
+质	O
+
+对	O
+海	O
+鲜	O
+、	O
+花	O
+粉	O
+过	O
+敏	O
+
+否	O
+认	O
+手	O
+术	O
+、	O
+外	O
+伤	O
+、	O
+输	O
+血	O
+史	O
+及	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+患	O
+者	O
+有	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+对	O
+磺	B
+胺	E
+、	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+患	O
+者	O
+有	O
+“	O
+磁	B
+共	I
+振	I
+造	I
+影	I
+剂	E
+”	O
+过	O
+敏	O
+史	O
+
+对	O
+苹	O
+果	O
+皮	O
+、	O
+桃	O
+过	O
+敏	O
+
+
+无	O
+食	O
+物	O
+、	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+氯	B
+霉	I
+素	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	E
+、	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+麻	B
+醉	I
+药	I
+物	E
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+对	O
+青	B
+霉	I
+素	E
+，	O
+链	B
+霉	I
+素	E
+过	O
+敏	O
+
+既	O
+往	O
+对	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+曾	O
+有	O
+“	O
+麻	B
+醉	I
+药	I
+物	E
+”	O
+过	O
+敏	O
+
+氨	B
+基	I
+比	I
+林	E
+、	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+
+对	O
+花	O
+粉	O
+及	O
+露	O
+水	O
+过	O
+敏	O
+
+对	O
+花	O
+粉	O
+、	O
+紫	O
+外	O
+线	O
+过	O
+敏	O
+
+曾	O
+食	O
+用	O
+蚕	O
+虫	O
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+“	O
+卡	B
+马	I
+西	I
+平	E
+”	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+及	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+氨	B
+茶	I
+碱	I
+类	E
+过	O
+敏	O
+
+有	O
+过	O
+敏	O
+史	O
+
+对	O
+阿	B
+莫	I
+西	I
+林	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+（	O
+皮	O
+肤	O
+红	O
+疹	O
+）	O
+
+自	O
+述	O
+鲁	B
+米	I
+那	E
+过	O
+敏	O
+
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	E
+、	O
+先	B
+锋	I
+Ⅳ	E
+等	O
+药	O
+物	O
+过	O
+敏	O
+
+自	O
+诉	O
+2	O
+0	O
+1	O
+0	O
+年	O
+有	O
+过	O
+药	O
+物	O
+过	O
+敏	O
+病	O
+史	O
+
+红	B
+霉	I
+素	E
+过	O
+敏	O
+
+医	O
+用	O
+胶	O
+布	O
+过	O
+敏	O
+史	O
+
+对	O
+头	B
+孢	I
+曲	I
+松	E
+、	O
+左	B
+氧	I
+氟	I
+沙	I
+星	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	E
+、	O
+碘	B
+剂	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+海	O
+鲜	O
+等	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+患	O
+者	O
+系	O
+过	O
+敏	O
+体	O
+质	O
+
+对	O
+海	O
+鲜	O
+牛	O
+奶	O
+鸡	O
+蛋	O
+冷	O
+空	O
+气	O
+等	O
+多	O
+种	O
+物	O
+质	O
+过	O
+敏	O
+
+对	O
+钙	B
+离	I
+子	I
+拮	I
+抗	I
+剂	E
+过	O
+敏	O
+
+
+否	O
+认	O
+眼	O
+干	O
+、	O
+口	O
+干	O
+、	O
+关	O
+节	O
+疼	O
+痛	O
+及	O
+光	O
+过	O
+敏	O
+等	O
+病	O
+史	O
+
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+“	O
+国	B
+产	I
+波	I
+立	I
+维	E
+、	O
+磺	B
+胺	I
+类	I
+系	I
+列	E
+、	O
+康	B
+泰	I
+克	E
+、	O
+安	B
+乃	I
+近	E
+、	O
+去	B
+痛	I
+片	E
+、	O
+扑	B
+热	I
+息	I
+痛	E
+、	O
+四	B
+环	I
+素	E
+、	O
+黄	B
+连	I
+素	E
+、	O
+奥	B
+美	I
+拉	I
+唑	I
+肠	I
+溶	I
+胶	I
+囊	E
+、	O
+泻	B
+立	I
+停	E
+”	O
+等	O
+药	O
+物	O
+过	O
+敏	O
+
+既	O
+往	O
+对	O
+去	B
+痛	I
+片	E
+过	O
+敏	O
+
+胺	B
+碘	I
+酮	E
+、	O
+四	B
+环	I
+素	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+菌	I
+素	E
+、	O
+醒	B
+脑	I
+静	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+芬	B
+必	I
+得	E
+及	O
+阿	B
+司	I
+匹	I
+林	E
+过	O
+敏	O
+
+对	O
+坚	O
+果	O
+类	O
+、	O
+杨	B
+柳	I
+絮	E
+过	O
+敏	O
+
+磺	B
+胺	I
+药	E
+、	O
+坦	B
+瑞	I
+塔	E
+过	O
+敏	O
+
+对	O
+花	O
+粉	O
+、	O
+尘	O
+螨	O
+、	O
+香	O
+水	O
+及	O
+油	O
+烟	O
+等	O
+过	O
+敏	O
+
+
+造	B
+影	I
+剂	E
+过	O
+敏	O
+史	O
+
+曾	O
+对	O
+”	O
+止	B
+疼	I
+片	E
+“	O
+过	O
+敏	O
+
+对	O
+“	B
+磺	I
+胺	E
+、	O
+呋	B
+喃	I
+坦	I
+丁	E
+”	O
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+阿	B
+莫	I
+西	I
+林	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+自	O
+诉	O
+对	O
+磺	B
+胺	I
+药	I
+物	E
+及	O
+青	B
+霉	I
+素	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+头	B
+孢	I
+药	I
+物	E
+，	O
+非	B
+甾	I
+体	I
+抗	I
+炎	I
+药	E
+，	O
+去	B
+痛	I
+片	E
+过	O
+敏	O
+
+对	O
+地	B
+塞	I
+米	I
+松	E
+、	O
+桃	O
+子	O
+过	O
+敏	O
+
+多	O
+次	O
+行	O
+冠	O
+脉	O
+造	O
+影	O
+术	O
+时	O
+对	O
+造	B
+影	I
+剂	E
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+碘	B
+伏	E
+、	O
+碘	B
+酒	E
+过	O
+敏	O
+
+
+对	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+（	O
+皮	O
+试	O
+阳	O
+性	O
+）	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	E
+、	O
+四	B
+环	I
+素	E
+过	O
+敏	O
+
+对	O
+杜	B
+冷	I
+丁	E
+、	O
+链	B
+霉	I
+素	E
+，	O
+黄	B
+连	I
+素	E
+过	O
+敏	O
+
+自	O
+述	O
+既	O
+往	O
+有	O
+过	O
+敏	O
+药	O
+物	O
+，	O
+不	O
+确	O
+定	O
+为	O
+何	O
+种	O
+药	O
+物	O
+
+酒	O
+精	O
+、	O
+四	B
+环	I
+素	E
+、	O
+海	O
+鲜	O
+过	O
+敏	O
+
+磺	B
+胺	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+、	O
+海	O
+鲜	O
+过	O
+敏	O
+
+对	O
+汞	O
+过	O
+敏	O
+
+自	O
+述	O
+猪	O
+肉	O
+过	O
+敏	O
+
+
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+前	B
+列	I
+地	I
+尔	E
+”	O
+过	O
+敏	O
+
+有	O
+青	B
+霉	I
+素	E
+及	O
+丹	B
+参	E
+过	O
+敏	O
+史	O
+
+自	O
+诉	O
+对	O
+“	O
+膏	O
+药	O
+”	O
+过	O
+敏	O
+
+对	O
+蜂	O
+蜜	O
+、	O
+木	O
+耳	O
+过	O
+敏	O
+
+过	O
+敏	O
+症	O
+状	O
+为	O
+瘙	O
+痒	O
+感	O
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+甲	B
+硝	I
+唑	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+药	I
+物	E
+过	O
+敏	O
+（	O
+）	O
+
+
+对	O
+“	O
+阿	B
+司	I
+匹	I
+林	E
+、	O
+布	B
+洛	I
+芬	E
+、	O
+奴	B
+夫	I
+卡	I
+因	E
+、	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	E
+、	O
+喹	B
+诺	I
+酮	I
+类	E
+、	O
+头	B
+孢	I
+类	E
+”	O
+多	O
+种	O
+药	O
+物	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+土	B
+霉	I
+素	E
+、	O
+“	O
+梳	B
+立	I
+达	E
+”	O
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+多	B
+种	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	E
+过	O
+敏	O
+
+对	O
+培	B
+哚	I
+普	I
+利	E
+过	O
+敏	O
+
+既	O
+往	O
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+自	O
+诉	O
+对	O
+造	B
+影	I
+剂	I
+“	E
+过	O
+敏	O
+”	O
+
+
+曾	O
+有	O
+可	O
+疑	O
+“	O
+碘	E
+”	O
+过	O
+敏	O
+史	O
+
+茄	O
+子	O
+、	O
+花	O
+粉	O
+过	O
+敏	O
+
+药	O
+物	O
+及	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+对	O
+磺	B
+胺	E
+、	O
+链	B
+霉	I
+素	E
+、	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+头	B
+孢	I
+噻	I
+肟	E
+及	O
+美	B
+平	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+慢	O
+性	O
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	E
+、	O
+氨	B
+茶	I
+碱	E
+过	O
+敏	O
+
+先	B
+锋	E
+、	O
+左	B
+氧	I
+氟	I
+沙	I
+星	I
+针	I
+剂	E
+、	O
+克	B
+林	I
+霉	I
+素	E
+针	O
+剂	O
+过	O
+敏	O
+
+有	O
+小	O
+麦	O
+花	O
+粉	O
+过	O
+敏	O
+史	O
+
+曾	O
+有	O
+碘	B
+剂	E
+过	O
+敏	O
+
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+无	O
+药	O
+物	O
+及	O
+其	O
+它	O
+物	O
+品	O
+过	O
+敏	O
+史	O
+
+往	O
+“	O
+阿	B
+司	I
+匹	I
+林	I
+肠	I
+溶	I
+片	E
+”	O
+过	O
+敏	O
+史	O
+
+对	O
+四	B
+环	I
+素	E
+过	O
+敏	O
+
+有	O
+酒	O
+精	O
+及	O
+柴	B
+胡	E
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+丹	B
+参	E
+”	O
+过	O
+敏	O
+史	O
+
+既	O
+往	O
+对	O
+“	O
+头	B
+孢	I
+呋	I
+辛	I
+钠	E
+”	O
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	E
+过	O
+敏	O
+
+对	O
+普	B
+鲁	I
+卡	I
+因	E
+、	O
+消	B
+毒	I
+水	E
+、	O
+花	B
+露	I
+水	E
+、	O
+香	O
+水	O
+、	O
+花	O
+粉	O
+过	O
+敏	O
+史	O
+
+自	O
+诉	O
+“	O
+曾	O
+于	O
+进	O
+食	O
+自	O
+家	O
+制	O
+作	O
+的	O
+小	O
+鸡	O
+炖	O
+蘑	O
+菇	O
+后	O
+出	O
+现	O
+过	O
+敏	O
+”	O
+
+
+对	O
+二	B
+甲	I
+双	I
+胍	E
+、	O
+阿	B
+司	I
+匹	I
+林	E
+、	O
+止	B
+疼	I
+药	E
+及	O
+感	B
+冒	I
+冲	I
+剂	E
+过	O
+敏	O
+
+自	O
+述	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+有	O
+“	O
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+”	O
+过	O
+敏	O
+史	O
+
+有	O
+药	O
+物	O
+过	O
+敏	O
+病	O
+史	O
+
+对	O
+粉	O
+尘	O
+颗	O
+粒	O
+过	O
+敏	O
+（	O
+过	O
+敏	O
+原	O
+不	O
+详	O
+）	O
+
+对	O
+铁	O
+过	O
+敏	O
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+吡	I
+肟	E
+、	O
+磺	B
+胺	I
+类	E
+、	O
+鲁	B
+米	I
+那	E
+、	O
+酒	O
+精	O
+、	O
+三	B
+溴	I
+合	I
+剂	E
+、	O
+阿	B
+司	I
+匹	I
+林	E
+、	O
+花	O
+粉	O
+”	O
+等	O
+过	O
+敏	O
+
+平	O
+素	O
+对	O
+磺	B
+胺	E
+、	O
+甲	B
+硝	I
+唑	E
+过	O
+敏	O
+
+酒	O
+精	O
+过	O
+敏	O
+
+否	O
+认	O
+过	O
+敏	O
+史	O
+
+
+对	O
+吗	B
+啡	E
+、	O
+杜	B
+冷	I
+丁	E
+过	O
+敏	O
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+对	O
+去	B
+痛	I
+片	E
+、	O
+鲁	B
+米	I
+那	E
+过	O
+敏	O
+
+对	O
+磺	B
+胺	I
+类	E
+，	O
+青	B
+霉	I
+素	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+既	O
+往	O
+有	O
+“	O
+痢	B
+特	I
+灵	E
+”	O
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+有	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+有	O
+"	O
+海	O
+鲜	O
+"	O
+过	O
+敏	O
+史	O
+
+家	O
+属	O
+诉	O
+对	O
+“	O
+复	B
+方	I
+利	I
+血	I
+平	E
+”	O
+有	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+既	O
+往	O
+有	O
+头	B
+孢	E
+过	O
+敏	O
+病	O
+史	O
+
+
+红	B
+花	E
+过	O
+敏	O
+
+有	O
+芒	O
+果	O
+，	O
+荔	O
+枝	O
+，	O
+桂	O
+圆	O
+过	O
+敏	O
+史	O
+
+对	O
+牛	O
+羊	O
+肉	O
+偶	O
+有	O
+过	O
+敏	O
+
+对	O
+卤	B
+米	I
+纳	I
+乳	I
+膏	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+硝	B
+苯	I
+地	I
+平	E
+、	O
+海	O
+鲜	O
+过	O
+敏	O
+
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+、	O
+川	B
+穹	I
+嗪	I
+片	E
+、	O
+血	B
+栓	I
+通	I
+注	I
+射	I
+液	E
+、	O
+维	B
+脑	I
+路	I
+通	E
+、	O
+呱	B
+拉	I
+西	I
+林	I
+钠	I
+注	I
+射	I
+液	E
+、	O
+苦	B
+碟	I
+子	E
+及	O
+奥	B
+扎	I
+格	I
+雷	I
+注	I
+射	I
+液	E
+、	O
+阿	B
+司	I
+匹	I
+林	E
+、	O
+盐	B
+酸	I
+酮	I
+替	I
+芬	I
+片	E
+、	O
+盐	B
+酸	I
+西	I
+替	I
+利	I
+嗪	I
+片	E
+、	O
+丹	B
+参	I
+滴	I
+丸	E
+、	O
+带	B
+有	I
+虫	I
+类	I
+药	I
+品	E
+过	O
+敏	O
+
+过	O
+敏	O
+症	O
+状	O
+为	O
+全	O
+身	O
+瘙	O
+痒	O
+
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+对	O
+阳	O
+光	O
+、	O
+紫	O
+外	O
+线	O
+、	O
+花	O
+粉	O
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+头	B
+孢	I
+类	E
+或	O
+调	B
+脂	I
+药	E
+过	O
+敏	O
+史	O
+
+
+自	O
+诉	O
+可	O
+能	O
+对	O
+多	O
+种	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+
+花	O
+粉	O
+、	O
+尘	O
+螨	O
+、	O
+动	O
+物	O
+毛	O
+屑	O
+、	O
+灰	O
+尘	O
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+对	O
+青	B
+霉	I
+素	E
+、	O
+海	O
+鲜	O
+过	O
+敏	O
+
+动	O
+物	O
+脂	O
+肪	O
+过	O
+敏	O
+
+对	O
+索	B
+米	I
+彤	E
+、	O
+局	B
+麻	I
+药	I
+物	E
+过	O
+敏	O
+
+既	O
+往	O
+有	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+和	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+、	O
+酱	O
+油	O
+及	O
+植	O
+物	O
+油	O
+过	O
+敏	O
+
+磺	B
+胺	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+
+自	O
+述	O
+板	B
+蓝	I
+根	I
+颗	I
+粒	E
+过	O
+敏	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+氯	B
+硝	I
+安	I
+定	E
+、	O
+盐	B
+酸	I
+培	I
+他	I
+啶	I
+氯	I
+化	I
+钠	I
+注	I
+射	I
+液	E
+过	O
+敏	O
+史	O
+
+自	O
+诉	O
+对	O
+青	B
+霉	I
+素	E
+、	O
+灭	B
+滴	I
+灵	E
+、	O
+血	B
+栓	I
+通	I
+干	I
+粉	E
+过	O
+敏	O
+
+否	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+过	O
+敏	O
+原	O
+试	O
+验	O
+示	O
+对	O
+尘	O
+螨	O
+、	O
+海	O
+鲜	O
+、	O
+霉	O
+菌	O
+变	O
+应	O
+原	O
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+四	B
+环	I
+素	E
+、	O
+金	B
+霉	I
+素	I
+类	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+及	O
+紫	O
+外	O
+线	O
+过	O
+敏	O
+
+自	O
+述	O
+曾	B
+鲁	I
+米	I
+纳	E
+过	O
+敏	O
+
+磺	B
+胺	E
+过	O
+敏	O
+史	O
+
+四	B
+环	I
+素	I
+药	I
+物	E
+过	O
+敏	O
+
+
+青	B
+霉	I
+素	E
+及	O
+头	B
+孢	I
+类	E
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+痢	B
+特	I
+灵	E
+、	O
+安	O
+定	O
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+“	O
+头	B
+痛	I
+粉	E
+”	O
+过	O
+敏	O
+
+1	O
+1	O
+年	O
+有	O
+服	O
+“	O
+菌	O
+类	O
+”	O
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	E
+、	O
+青	B
+霉	I
+素	E
+、	O
+克	B
+林	I
+霉	I
+素	E
+、	O
+左	B
+氧	I
+氟	I
+沙	I
+星	E
+、	O
+头	B
+孢	I
+拉	I
+定	E
+、	O
+环	B
+丙	I
+沙	I
+星	E
+等	O
+多	O
+种	O
+药	O
+物	O
+及	O
+花	O
+粉	O
+、	O
+香	O
+水	O
+等	O
+过	O
+敏	O
+
+美	B
+罗	I
+培	I
+南	E
+过	O
+敏	O
+
+既	O
+往	O
+对	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+过	O
+敏	O
+
+既	O
+往	O
+有	O
+头	B
+孢	I
+呋	I
+辛	I
+钠	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+对	O
+A	B
+B	I
+C	I
+等	I
+药	I
+物	E
+过	O
+敏	O
+
+
+自	O
+诉	O
+对	O
+虾	O
+过	O
+敏	O
+
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+家	O
+属	O
+诉	O
+患	O
+者	O
+对	O
+“	O
+复	B
+方	I
+利	I
+血	I
+平	E
+”	O
+有	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+磺	B
+胺	E
+过	O
+敏	O
+史	O
+
+曾	O
+对	O
+哌	B
+拉	I
+西	I
+林	E
+及	O
+美	B
+洛	I
+西	I
+林	E
+过	O
+敏	O
+
+对	O
+抗	B
+生	I
+素	E
+有	O
+过	O
+过	O
+敏	O
+情	O
+况	O
+，	O
+具	O
+体	O
+药	O
+物	O
+不	O
+详	O
+
+对	O
+“	O
+珍	B
+菊	I
+降	I
+压	I
+片	E
+”	O
+过	O
+敏	O
+
+对	O
+阿	B
+司	I
+匹	I
+林	E
+、	O
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+、	O
+阿	B
+奇	I
+霉	I
+素	E
+、	O
+克	B
+林	I
+霉	I
+素	E
+药	O
+物	O
+过	O
+敏	O
+
+对	O
+海	O
+鲜	O
+、	O
+牛	O
+奶	O
+过	O
+敏	O
+
+
+磺	B
+胺	I
+药	I
+物	E
+过	O
+敏	O
+
+曾	O
+口	O
+服	O
+感	B
+冒	I
+药	E
+后	O
+出	O
+现	O
+过	O
+敏	O
+
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+患	O
+者	O
+自	O
+述	O
+对	O
+“	O
+尼	B
+莫	I
+地	I
+平	E
+、	O
+卡	B
+马	I
+西	I
+平	E
+”	O
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+患	O
+者	O
+自	O
+诉	O
+对	O
+冷	O
+空	O
+气	O
+过	O
+敏	O
+
+对	O
+硝	B
+酸	I
+甘	I
+油	E
+、	O
+普	B
+鲁	I
+卡	I
+因	E
+、	O
+心	B
+得	I
+安	E
+等	O
+药	O
+物	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+金	O
+属	O
+过	O
+敏	O
+
+
+否	O
+认	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+有	O
+玉	O
+米	O
+过	O
+敏	O
+史	O
+
+曾	O
+有	O
+“	O
+海	O
+鲜	O
+”	O
+过	O
+敏	O
+史	O
+
+对	O
+长	B
+春	I
+西	I
+汀	I
+和	I
+单	I
+唾	I
+液	I
+酸	I
+酸	I
+神	I
+经	I
+节	I
+苷	I
+脂	E
+过	O
+敏	O
+
+有	O
+心	B
+脑	I
+康	E
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+对	O
+海	O
+鲜	O
+类	O
+食	O
+物	O
+过	O
+敏	O
+
+低	B
+分	I
+子	I
+右	I
+旋	I
+糖	I
+苷	E
+过	O
+敏	O
+
+有	O
+巴	B
+比	I
+妥	I
+类	I
+药	I
+物	E
+、	O
+安	B
+痛	I
+定	E
+及	O
+去	B
+痛	I
+片	E
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+诉	O
+美	B
+托	I
+洛	I
+尔	E
+过	O
+敏	O
+
+
+未	O
+发	O
+现	O
+其	O
+他	O
+药	O
+物	O
+及	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+胺	B
+碘	I
+酮	E
+过	O
+敏	O
+
+对	O
+虾	O
+、	O
+蟹	O
+过	O
+敏	O
+
+对	O
+增	B
+强	I
+C	I
+T	I
+对	I
+比	I
+剂	E
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+单	B
+硝	I
+酸	I
+异	I
+山	I
+梨	I
+酯	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+破	B
+伤	I
+风	I
+抗	I
+毒	I
+素	E
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+磺	B
+胺	I
+药	I
+物	E
+过	O
+敏	O
+
+磺	B
+胺	E
+、	O
+青	B
+霉	I
+素	E
+、	O
+阿	B
+司	I
+匹	I
+林	E
+过	O
+敏	O
+
+长	O
+效	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+
+低	B
+分	I
+子	I
+肝	I
+素	E
+，	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+头	B
+孢	I
+氨	I
+苄	E
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+对	O
+蘑	O
+菇	O
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+普	B
+鲁	I
+卡	I
+因	E
+、	O
+双	B
+嘧	I
+达	I
+莫	E
+过	O
+敏	O
+
+曾	O
+对	O
+造	B
+影	I
+剂	E
+、	O
+虾	O
+类	O
+、	O
+螃	O
+蟹	O
+过	O
+敏	O
+
+对	O
+瑞	B
+甘	I
+注	I
+射	I
+液	E
+过	O
+敏	O
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+多	O
+种	O
+物	O
+质	O
+可	O
+引	O
+起	O
+皮	O
+肤	O
+皮	O
+疹	O
+
+链	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+对	O
+海	O
+鲜	O
+食	O
+物	O
+过	O
+敏	O
+
+对	O
+哌	B
+拉	I
+西	I
+林	I
+他	I
+唑	I
+巴	I
+坦	E
+、	O
+亚	B
+胺	I
+培	I
+南	I
+西	I
+司	I
+他	I
+汀	E
+过	O
+敏	O
+
+
+自	O
+述	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+“	O
+博	B
+灵	E
+”	O
+过	O
+敏	O
+
+既	O
+往	O
+有	O
+硝	B
+酸	I
+甘	I
+油	E
+过	O
+敏	O
+史	O
+
+对	O
+鲁	B
+米	I
+那	E
+、	O
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+、	O
+止	B
+痛	I
+片	E
+、	O
+花	O
+粉	O
+、	O
+海	O
+鲜	O
+等	O
+多	O
+种	O
+物	O
+质	O
+过	O
+敏	O
+
+曾	O
+有	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+去	B
+痛	I
+片	E
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+，	O
+链	B
+霉	I
+素	E
+过	O
+敏	O
+
+既	O
+往	O
+曾	O
+有	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+“	O
+巴	B
+比	I
+妥	I
+类	I
+药	I
+物	E
+”	O
+及	O
+“	O
+解	B
+热	I
+镇	I
+痛	I
+药	I
+物	E
+”	O
+过	O
+敏	O
+史	O
+
+口	O
+服	O
+阿	B
+司	I
+匹	I
+林	E
+无	O
+过	O
+敏	O
+
+对	O
+野	B
+生	I
+蘑	I
+菇	E
+过	O
+敏	O
+
+
+有	O
+“	O
+氨	B
+茶	I
+碱	E
+”	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	E
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+自	O
+诉	O
+对	O
+“	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	E
+”	O
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+去	B
+痛	I
+片	E
+、	O
+磺	B
+胺	I
+类	I
+消	I
+炎	I
+药	E
+过	O
+敏	O
+
+对	O
+新	B
+鲜	I
+香	I
+菇	E
+过	O
+敏	O
+
+对	O
+“	O
+A	B
+B	I
+C	E
+、	O
+止	B
+痛	I
+药	E
+、	O
+安	B
+乃	I
+近	E
+、	O
+麦	B
+迪	I
+霉	I
+素	E
+、	O
+速	B
+效	I
+感	I
+冒	E
+、	O
+百	B
+服	I
+宁	E
+、	O
+阿	B
+司	I
+匹	I
+林	E
+、	O
+血	B
+栓	I
+通	E
+、	O
+柴	B
+胡	I
+口	I
+服	I
+液	E
+、	O
+蔡	B
+丁	I
+美	I
+酮	I
+胶	I
+囊	E
+”	O
+过	O
+敏	O
+史	O
+
+对	O
+四	B
+环	I
+素	E
+、	O
+增	B
+效	I
+联	I
+黄	I
+片	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+
+夏	O
+季	O
+对	O
+海	O
+鲜	O
+过	O
+敏	O
+
+对	O
+甘	B
+油	I
+果	I
+糖	E
+，	O
+疏	B
+血	I
+通	E
+过	O
+敏	O
+
+妥	B
+布	I
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+带	O
+鱼	O
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+“	O
+先	B
+锋	I
+类	I
+抗	I
+生	I
+素	E
+”	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+自	O
+诉	O
+对	O
+阿	B
+司	I
+匹	I
+林	I
+肠	I
+溶	I
+片	E
+过	O
+敏	O
+
+有	O
+海	O
+鲜	O
+，	O
+胶	O
+布	O
+，	O
+春	O
+季	O
+过	O
+敏	O
+史	O
+
+患	O
+者	O
+对	O
+普	B
+罗	I
+布	I
+考	E
+过	O
+敏	O
+
+
+自	O
+诉	O
+对	O
+索	B
+密	I
+痛	E
+、	O
+三	B
+乙	I
+酰	I
+胺	I
+吡	I
+咯	I
+烷	I
+酮	E
+、	O
+磺	B
+胺	I
+类	E
+、	O
+青	B
+霉	I
+素	E
+及	O
+链	B
+霉	I
+素	E
+等	O
+药	O
+物	O
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+“	O
+左	B
+氧	I
+氟	I
+沙	I
+星	E
+、	O
+环	B
+丙	I
+沙	I
+星	E
+”	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+喹	B
+诺	I
+酮	I
+药	I
+物	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+敏	E
+过	O
+敏	O
+
+可	O
+能	O
+有	O
+造	B
+影	I
+剂	E
+过	O
+敏	O
+
+病	B
+毒	I
+灵	E
+、	O
+中	B
+效	I
+磺	I
+胺	E
+、	O
+灭	B
+滴	I
+灵	E
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+菌	I
+素	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+否	O
+磺	B
+胺	I
+类	E
+、	O
+青	B
+霉	I
+素	E
+、	O
+阿	B
+司	I
+匹	I
+林	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+、	O
+甘	B
+草	E
+过	O
+敏	O
+史	O
+
+
+对	O
+青	B
+霉	I
+素	E
+及	O
+一	B
+部	I
+分	I
+头	I
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+中	B
+药	I
+桔	I
+梗	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+白	O
+糖	O
+过	O
+敏	O
+
+海	O
+鲜	O
+、	O
+止	B
+痛	I
+片	E
+过	O
+敏	O
+
+对	O
+磺	B
+胺	I
+药	E
+、	O
+苯	B
+巴	I
+比	I
+妥	E
+、	O
+阿	B
+莫	I
+西	I
+林	E
+过	O
+敏	O
+
+鸡	O
+蛋	O
+，	O
+鸡	O
+肉	O
+，	O
+花	O
+生	O
+，	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	I
+类	E
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+菌	B
+必	I
+治	E
+过	O
+敏	O
+
+阿	B
+莫	I
+西	I
+林	I
+片	E
+过	O
+敏	O
+
+
+对	O
+磺	B
+胺	I
+药	I
+物	E
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+阿	B
+司	I
+匹	I
+林	E
+过	O
+敏	O
+
+扑	B
+热	I
+息	I
+痛	I
+等	I
+解	I
+热	I
+镇	I
+痛	I
+药	E
+过	O
+敏	O
+
+静	O
+脉	O
+用	O
+青	B
+霉	I
+素	E
+及	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+口	O
+服	O
+不	O
+过	O
+敏	O
+
+对	O
+甲	B
+硝	I
+唑	E
+、	O
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+菌	I
+素	E
+等	O
+过	O
+敏	O
+
+对	O
+螨	O
+虫	O
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+C	B
+T	I
+造	I
+影	I
+强	I
+化	I
+剂	E
+过	O
+敏	O
+
+对	B
+比	I
+剂	E
+过	O
+敏	O
+
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+牛	O
+奶	O
+、	O
+辛	O
+辣	O
+食	O
+物	O
+、	O
+海	O
+鲜	O
+及	O
+坚	O
+果	O
+等	O
+过	O
+敏	O
+
+酒	O
+精	O
+过	O
+敏	O
+
+发	O
+现	O
+对	O
+空	O
+气	O
+中	O
+尘	O
+螨	O
+等	O
+多	O
+种	O
+物	O
+质	O
+过	O
+敏	O
+
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+青	B
+霉	I
+素	E
+、	O
+甘	B
+草	I
+片	E
+过	O
+敏	O
+史	O
+
+对	O
+多	O
+种	O
+食	O
+物	O
+过	O
+敏	O
+
+
+对	O
+湖	O
+产	O
+品	O
+鱼	O
+、	O
+虾	O
+过	O
+敏	O
+
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+不	O
+详	O
+
+自	O
+诉	O
+对	O
+头	B
+孢	I
+菌	I
+素	E
+、	O
+磺	B
+胺	E
+、	O
+甲	B
+硝	I
+唑	E
+过	O
+敏	O
+
+有	O
+对	O
+“	O
+感	B
+康	I
+”	I
+药	E
+过	O
+敏	O
+史	O
+
+对	O
+花	O
+粉	O
+及	O
+冷	O
+热	O
+温	O
+度	O
+转	O
+换	O
+过	O
+敏	O
+
+无	O
+过	O
+敏	O
+史	O
+
+胶	O
+布	O
+，	O
+心	B
+电	I
+极	I
+片	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	I
+V	I
+钾	I
+片	E
+过	O
+敏	O
+
+对	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+自	O
+述	O
+曾	O
+有	O
+造	B
+影	I
+剂	E
+过	O
+敏	O
+史	O
+
+
+对	O
+蒜	O
+类	O
+等	O
+多	O
+种	O
+食	O
+物	O
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+赛	B
+治	E
+过	O
+敏	O
+
+对	O
+“	O
+鲅	O
+鱼	O
+”	O
+过	O
+敏	O
+
+查	O
+过	O
+敏	O
+原	O
+对	O
+花	O
+粉	O
+、	O
+坚	O
+果	O
+类	O
+、	O
+杨	B
+柳	I
+絮	I
+等	E
+过	O
+敏	O
+
+对	O
+烟	O
+雾	O
+、	O
+粉	O
+尘	O
+可	O
+疑	O
+过	O
+敏	O
+
+对	O
+卡	B
+马	I
+西	I
+平	E
+、	O
+苯	B
+妥	I
+英	I
+钠	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+水	O
+果	O
+过	O
+敏	O
+
+对	O
+碘	B
+剂	E
+、	O
+甲	B
+硝	I
+唑	E
+、	O
+扑	B
+尔	I
+敏	I
+头	I
+孢	I
+曲	I
+松	E
+、	O
+莫	B
+西	I
+沙	I
+星	E
+过	O
+敏	O
+
+
+自	O
+述	O
+对	O
+磺	B
+胺	E
+过	O
+敏	O
+
+既	O
+往	O
+有	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+及	O
+贝	O
+类	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+有	E
+过	O
+敏	O
+史	O
+
+有	O
+白	O
+酒	O
+过	O
+敏	O
+史	O
+
+自	O
+诉	O
+多	O
+种	O
+药	O
+物	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+皮	O
+试	O
+过	O
+敏	O
+
+否	O
+认	O
+药	O
+过	O
+敏	O
+史	O
+
+既	O
+往	O
+对	O
+青	B
+霉	I
+素	E
+、	O
+双	B
+黄	I
+连	E
+过	O
+敏	O
+
+灰	O
+尘	O
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+用	O
+海	O
+鲜	O
+、	O
+碘	O
+盐	O
+后	O
+过	O
+敏	O
+
+
+胺	B
+碘	I
+酮	E
+、	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+因	O
+碘	B
+造	I
+影	I
+剂	E
+过	O
+敏	O
+未	O
+行	O
+冠	O
+状	O
+动	O
+脉	O
+造	O
+影	O
+术	O
+
+自	O
+诉	O
+对	O
+对	O
+倍	B
+他	I
+乐	I
+克	E
+过	O
+敏	O
+
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	I
+类	I
+药	I
+物	E
+可	O
+疑	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+既	O
+往	O
+对	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+过	O
+敏	O
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+造	B
+影	I
+剂	I
+“	I
+优	I
+维	I
+显	E
+”	O
+过	O
+敏	O
+
+
+过	O
+敏	O
+原	O
+为	O
+动	O
+物	O
+毛	O
+发	O
+
+对	O
+桃	O
+，	O
+李	O
+子	O
+，	O
+樱	O
+桃	O
+过	O
+敏	O
+
+链	B
+霉	I
+素	E
+过	O
+敏	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+头	B
+孢	E
+、	O
+辛	B
+伐	I
+他	I
+汀	E
+、	O
+阿	B
+托	I
+伐	I
+他	I
+汀	I
+他	I
+汀	E
+过	O
+敏	O
+
+对	O
+虾	O
+过	O
+敏	O
+
+药	O
+物	O
+及	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+可	O
+疑	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+庆	B
+大	I
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	E
+、	O
+麻	B
+醉	I
+药	E
+（	O
+不	O
+详	O
+）	O
+过	O
+敏	O
+
+海	O
+鲜	O
+类	O
+食	O
+物	O
+过	O
+敏	O
+预	O
+防	O
+接	O
+种	O
+史	O
+不	O
+详	O
+
+有	O
+咳	B
+速	I
+停	I
+糖	I
+浆	E
+过	O
+敏	O
+史	O
+
+
+冠	O
+脉	O
+造	O
+影	O
+手	O
+术	O
+出	O
+现	O
+过	O
+敏	O
+症	O
+状	O
+
+既	O
+往	O
+对	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+等	O
+药	O
+物	O
+过	O
+敏	O
+
+磺	B
+胺	I
+类	E
+”	O
+过	O
+敏	O
+
+患	O
+者	O
+自	O
+诉	O
+对	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+自	O
+诉	O
+青	B
+霉	I
+素	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+可	O
+疑	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+非	B
+甾	I
+体	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+磺	B
+胺	E
+、	O
+氯	B
+霉	I
+素	E
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+某	O
+药	O
+物	O
+过	O
+敏	O
+具	O
+体	O
+不	O
+详	O
+
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+
+磺	B
+胺	I
+类	I
+抗	I
+生	I
+素	E
+、	O
+阿	B
+奇	I
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+樟	B
+脑	E
+、	O
+去	B
+痛	I
+片	E
+、	O
+保	B
+泰	I
+松	E
+过	O
+敏	O
+
+冠	B
+脉	I
+C	I
+T	I
+造	I
+影	I
+剂	E
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+虾	O
+过	O
+敏	O
+
+患	O
+者	O
+过	O
+敏	O
+体	O
+质	O
+
+对	O
+青	B
+霉	I
+素	E
+等	O
+多	O
+种	O
+药	O
+物	O
+过	O
+敏	O
+
+酒	O
+精	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+和	O
+普	B
+鲁	I
+卡	I
+因	E
+过	O
+敏	O
+
+行	O
+冠	O
+脉	O
+C	O
+T	O
+后	O
+出	O
+现	O
+过	O
+敏	O
+
+对	O
+罗	B
+红	I
+霉	I
+素	E
+、	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+
+自	O
+述	O
+对	O
+青	B
+霉	I
+素	E
+、	O
+去	B
+痛	I
+片	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+“	O
+丹	B
+参	I
+灯	I
+盏	I
+华	I
+素	E
+”	O
+过	O
+敏	O
+
+有	O
+苯	B
+巴	I
+比	I
+妥	I
+钠	E
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+和	O
+头	B
+孢	I
+类	E
+过	O
+敏	O
+
+对	O
+铁	O
+等	O
+金	O
+属	O
+过	O
+敏	O
+
+可	O
+能	O
+对	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+去	B
+痛	I
+片	E
+及	O
+牛	B
+黄	I
+解	I
+毒	I
+丸	E
+过	O
+敏	O
+
+患	O
+者	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+牛	O
+奶	O
+、	O
+海	O
+鲜	O
+过	O
+敏	O
+
+
+对	O
+球	B
+蛋	I
+白	E
+过	O
+敏	O
+
+患	O
+者	O
+对	O
+诺	B
+氟	I
+沙	I
+星	E
+、	O
+氧	B
+氟	I
+沙	I
+星	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+哌	B
+拉	I
+西	I
+林	I
+他	I
+唑	I
+巴	I
+坦	E
+过	O
+敏	O
+
+自	O
+述	O
+“	B
+磺	I
+胺	E
+、	O
+梨	O
+花	O
+花	O
+粉	O
+、	O
+紫	O
+外	O
+线	O
+”	O
+过	O
+敏	O
+
+对	O
+阿	B
+莫	I
+西	I
+林	E
+、	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+（	O
+表	O
+现	O
+为	O
+皮	O
+疹	O
+）	O
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+、	O
+“	O
+链	B
+霉	I
+素	E
+”	O
+“	O
+磺	B
+胺	I
+”	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+既	O
+往	O
+有	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+苯	B
+巴	I
+比	I
+妥	E
+过	O
+敏	O
+史	O
+
+有	O
+四	B
+环	I
+素	E
+过	O
+敏	O
+史	O
+
+对	O
+蝉	O
+蛹	O
+过	O
+敏	O
+
+
+对	O
+光	O
+、	O
+花	O
+粉	O
+、	O
+海	O
+鲜	O
+等	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	I
+类	E
+过	O
+敏	O
+
+对	O
+磺	B
+胺	I
+类	E
+及	O
+止	B
+痛	I
+片	E
+过	O
+敏	O
+
+对	O
+“	O
+胶	O
+带	O
+”	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	I
+类	E
+、	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+自	O
+述	O
+“	B
+磺	I
+胺	I
+类	I
+药	I
+物	E
+、	O
+胃	B
+复	I
+安	E
+”	O
+过	O
+敏	O
+
+对	O
+煤	O
+烟	O
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+倍	B
+他	I
+乐	I
+克	E
+、	O
+拉	B
+西	I
+地	I
+平	E
+、	O
+消	B
+心	I
+痛	E
+、	O
+阿	B
+尔	I
+马	I
+尔	E
+、	O
+前	B
+列	I
+地	I
+尔	E
+、	O
+左	B
+卡	I
+尼	I
+汀	E
+等	O
+药	O
+物	O
+过	O
+敏	O
+
+对	O
+阿	B
+司	I
+匹	I
+林	E
+、	O
+青	B
+霉	I
+素	E
+、	O
+布	B
+洛	I
+芬	E
+过	O
+敏	O
+
+曾	O
+对	O
+海	O
+鲜	O
+过	O
+敏	O
+
+
+磺	B
+胺	E
+及	O
+碘	E
+过	O
+敏	O
+史	O
+
+自	O
+诉	O
+对	O
+“	O
+阿	B
+司	I
+匹	I
+林	E
+、	O
+青	B
+霉	I
+素	E
+、	O
+阿	B
+莫	I
+西	I
+林	E
+、	O
+洛	B
+汀	I
+新	E
+、	O
+碘	E
+”	O
+过	O
+敏	O
+
+对	O
+别	B
+嘌	I
+醇	E
+过	O
+敏	O
+
+既	O
+往	O
+对	O
+“	O
+异	B
+甘	I
+草	I
+酸	E
+”	O
+过	O
+敏	O
+
+自	O
+小	O
+对	O
+螨	O
+虫	O
+、	O
+花	O
+粉	O
+、	O
+猫	O
+毛	O
+过	O
+敏	O
+
+有	O
+喹	B
+诺	I
+酮	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	E
+、	O
+奎	B
+诺	I
+酮	I
+类	E
+、	O
+华	B
+法	I
+林	I
+钠	E
+、	O
+氨	B
+酚	I
+羟	I
+考	I
+酮	E
+、	O
+血	B
+管	I
+转	I
+换	I
+酶	I
+抑	I
+制	I
+剂	I
+降	I
+压	I
+药	E
+过	O
+敏	O
+
+阿	B
+司	I
+匹	I
+林	E
+、	O
+磺	B
+胺	I
+类	I
+丹	I
+参	E
+滴	O
+丸	O
+等	O
+药	O
+物	O
+过	O
+敏	O
+
+磺	B
+胺	I
+类	E
+及	O
+链	B
+霉	I
+素	E
+药	O
+物	O
+过	O
+敏	O
+及	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+患	O
+者	O
+曾	O
+对	O
+造	B
+影	I
+剂	E
+过	O
+敏	O
+
+
+对	O
+芒	O
+果	O
+、	O
+菠	O
+萝	O
+等	O
+水	O
+果	O
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	E
+、	O
+甲	B
+钴	I
+胺	E
+、	O
+阿	B
+莫	I
+西	I
+林	E
+、	O
+小	B
+金	I
+胶	I
+囊	E
+过	O
+敏	O
+
+患	O
+者	O
+自	O
+述	O
+对	O
+“	O
+阿	B
+司	I
+匹	I
+林	E
+”	O
+过	O
+敏	O
+
+有	O
+哌	B
+拉	I
+西	I
+林	E
+、	O
+头	B
+孢	I
+曲	I
+松	I
+钠	E
+过	O
+敏	O
+史	O
+
+蛋	O
+黄	O
+、	O
+蛋	O
+白	O
+等	O
+多	O
+种	O
+食	O
+物	O
+过	O
+敏	O
+
+既	O
+往	O
+对	O
+海	O
+鲜	O
+过	O
+敏	O
+
+对	O
+普	B
+瑞	I
+巴	I
+林	E
+、	O
+依	B
+达	I
+拉	I
+奉	E
+过	O
+敏	O
+
+对	O
+海	O
+鲜	O
+、	O
+饮	O
+料	O
+、	O
+口	B
+香	I
+糖	E
+、	O
+感	B
+冒	I
+药	E
+等	O
+过	O
+敏	O
+
+洗	O
+发	O
+水	O
+过	O
+敏	O
+
+
+对	O
+地	B
+卡	I
+因	E
+、	O
+链	B
+霉	I
+素	E
+、	O
+奥	B
+美	I
+拉	I
+唑	I
+肠	I
+溶	I
+胶	I
+囊	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+、	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+自	O
+诉	O
+服	O
+阿	B
+司	I
+匹	I
+林	I
+制	I
+剂	E
+、	O
+坎	B
+地	I
+沙	I
+坦	I
+西	I
+酯	I
+片	E
+、	O
+安	B
+博	I
+诺	E
+过	O
+敏	O
+
+外	O
+用	O
+膏	B
+药	E
+皮	O
+肤	O
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	E
+及	O
+麻	B
+醉	I
+药	I
+物	E
+过	O
+敏	O
+
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+患	O
+者	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	E
+过	O
+敏	O
+
+既	O
+往	O
+对	O
+“	O
+醒	B
+脑	I
+静	E
+”	O
+过	O
+敏	O
+
+酒	O
+精	O
+过	O
+敏	O
+
+
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+曲	I
+松	I
+钠	E
+过	O
+敏	O
+病	O
+史	O
+
+无	O
+明	O
+显	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+查	O
+后	O
+出	O
+现	O
+造	B
+影	I
+剂	E
+过	O
+敏	O
+
+对	O
+连	B
+黄	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+曾	O
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+酒	O
+精	O
+、	O
+青	B
+霉	I
+素	E
+、	O
+血	B
+栓	I
+通	E
+等	O
+药	O
+物	O
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+“	O
+阿	B
+司	I
+匹	I
+林	E
+、	O
+青	B
+霉	I
+素	E
+”	O
+过	O
+敏	O
+
+香	O
+菇	O
+、	O
+笋	O
+、	O
+虾	O
+、	O
+韭	O
+菜	O
+过	O
+敏	O
+
+自	O
+述	O
+常	O
+有	O
+食	O
+物	O
+过	O
+敏	O
+
+
+过	O
+敏	O
+源	O
+不	O
+详	O
+
+连	B
+霉	I
+素	E
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+桃	O
+、	O
+杏	O
+、	O
+李	B
+子	I
+等	I
+水	I
+果	E
+过	O
+敏	O
+
+来	B
+氟	I
+米	I
+特	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+既	O
+往	O
+有	O
+青	B
+链	I
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+曾	O
+对	O
+普	B
+鲁	I
+卡	I
+因	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+酒	O
+精	O
+过	O
+敏	O
+史	O
+
+既	O
+往	O
+有	O
+海	O
+螺	O
+过	O
+敏	O
+史	O
+
+对	O
+颠	B
+茄	E
+及	O
+扑	B
+尔	I
+敏	E
+过	O
+敏	O
+
+
+红	B
+花	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+对	O
+盐	B
+酸	I
+倍	I
+他	I
+啶	E
+过	O
+敏	O
+
+四	B
+环	I
+素	E
+过	O
+敏	O
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+过	O
+敏	O
+了	O
+
+对	O
+"	B
+先	I
+锋	I
+"	I
+药	I
+物	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+和	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+对	O
+鲶	O
+鱼	O
+过	O
+敏	O
+
+北	O
+极	O
+虾	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+事	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+红	B
+霉	I
+素	E
+、	O
+克	B
+林	I
+霉	I
+素	E
+、	O
+林	B
+可	I
+霉	I
+素	E
+、	O
+阿	B
+司	I
+匹	I
+林	E
+过	O
+敏	O
+
+考	O
+虑	O
+对	O
+造	B
+影	I
+剂	E
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+氨	B
+茶	I
+碱	E
+过	O
+敏	O
+
+对	O
+葱	O
+、	O
+蒜	O
+等	O
+调	O
+料	O
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+染	O
+发	O
+剂	O
+过	O
+敏	O
+
+阿	B
+司	I
+匹	I
+林	I
+制	I
+剂	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+菌	I
+素	I
+类	E
+及	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+桃	O
+子	O
+、	O
+苹	O
+果	O
+等	O
+多	O
+种	O
+水	O
+果	O
+过	O
+敏	O
+
+对	O
+油	O
+漆	O
+过	O
+敏	O
+
+对	O
+头	B
+孢	E
+、	O
+辛	B
+伐	I
+他	I
+汀	E
+、	O
+阿	B
+托	I
+伐	I
+他	I
+汀	E
+、	O
+“	O
+血	B
+塞	I
+通	E
+”	O
+、	O
+“	O
+马	B
+来	I
+酸	I
+桂	I
+哌	I
+齐	I
+特	E
+”	O
+过	O
+敏	O
+
+
+自	O
+诉	O
+对	O
+胶	O
+带	O
+过	O
+敏	O
+
+对	O
+磺	B
+胺	I
+类	E
+、	O
+地	B
+塞	I
+米	I
+松	I
+磷	I
+酸	I
+钠	E
+过	O
+敏	O
+
+有	O
+头	B
+孢	I
+哌	I
+酮	I
+钠	E
+、	O
+普	B
+鲁	I
+本	I
+辛	E
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+安	B
+乃	I
+静	E
+”	O
+过	O
+敏	O
+
+无	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+蝮	B
+蛇	I
+抗	I
+栓	I
+酶	E
+过	O
+敏	O
+
+奥	B
+美	I
+拉	I
+唑	E
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+香	O
+皂	O
+、	O
+肥	B
+皂	I
+类	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	I
+类	E
+、	O
+青	B
+霉	I
+素	I
+类	E
+、	O
+地	B
+尔	I
+硫	I
+卓	E
+、	O
+胺	B
+碘	I
+酮	E
+及	O
+医	O
+用	O
+胶	O
+布	O
+过	O
+敏	O
+
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+黄	B
+连	I
+素	E
+等	O
+药	O
+物	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+解	B
+热	I
+镇	I
+痛	I
+药	I
+物	E
+过	O
+敏	O
+
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+酒	O
+精	O
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+既	O
+往	O
+有	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+对	O
+"	B
+心	I
+律	I
+平	E
+"	O
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+泰	B
+诺	E
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+“	B
+磺	I
+胺	I
+类	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+薄	O
+菏	O
+、	O
+粉	O
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+对	O
+鱼	O
+虾	O
+过	O
+敏	O
+
+
+自	O
+述	O
+有	O
+氨	B
+基	I
+匹	I
+林	E
+过	O
+敏	O
+史	O
+
+去	B
+痛	I
+片	E
+、	O
+安	B
+痛	I
+定	E
+、	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+木	O
+耳	O
+过	O
+敏	O
+
+对	O
+柴	B
+胡	I
+注	I
+射	I
+液	E
+、	O
+安	B
+痛	I
+定	E
+及	O
+花	O
+粉	O
+过	O
+敏	O
+
+对	O
+酒	O
+精	O
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+青	B
+霉	I
+素	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+汽	O
+油	O
+、	O
+油	O
+漆	O
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+及	O
+头	B
+孢	I
+类	E
+均	O
+过	O
+敏	O
+
+
+曾	O
+对	O
+“	O
+某	O
+种	O
+药	O
+物	O
+过	O
+敏	O
+
+自	O
+诉	O
+过	O
+敏	O
+体	O
+质	O
+
+自	O
+述	O
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+阿	B
+替	I
+洛	I
+尔	E
+、	O
+琥	B
+珀	I
+酸	I
+美	I
+托	I
+洛	I
+尔	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+、	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+孜	O
+然	O
+”	O
+过	O
+敏	O
+
+对	O
+邦	O
+迪	O
+过	O
+敏	O
+
+外	O
+院	O
+行	O
+过	O
+敏	O
+原	O
+监	O
+测	O
+对	O
+芹	O
+菜	O
+、	O
+花	O
+生	O
+、	O
+蒿	B
+草	E
+、	O
+牛	O
+肉	O
+等	O
+过	O
+敏	O
+
+
+患	O
+者	O
+有	O
+呋	B
+喃	I
+西	I
+林	E
+、	O
+左	B
+氧	I
+氟	I
+沙	I
+星	E
+、	O
+头	B
+孢	I
+哌	I
+酮	E
+过	O
+敏	O
+史	O
+
+1	O
+9	O
+6	O
+2	O
+年	O
+曾	O
+有	O
+一	B
+次	I
+盘	I
+尼	I
+西	I
+林	E
+过	O
+敏	O
+史	O
+
+对	O
+酒	O
+精	O
+过	O
+敏	O
+
+对	O
+圆	O
+葱	O
+食	O
+物	O
+过	O
+敏	O
+
+无	O
+输	O
+血	O
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+、	O
+过	O
+敏	O
+症	O
+状	O
+不	O
+详	O
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+、	O
+阿	B
+司	I
+匹	I
+林	E
+”	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	I
+（	I
+先	I
+锋	I
+5	I
+号	I
+）	E
+、	O
+地	B
+塞	I
+米	I
+松	E
+、	O
+脑	B
+宁	E
+过	O
+敏	O
+史	O
+
+去	B
+痛	I
+片	E
+过	O
+敏	O
+
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+过	O
+敏	O
+症	O
+状	O
+为	O
+冠	O
+状	O
+沟	O
+炎	O
+症	O
+
+淡	O
+水	O
+鱼	O
+，	O
+牛	O
+奶	O
+，	O
+橡	O
+胶	O
+制	O
+品	O
+等	O
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+部	B
+分	I
+降	I
+压	I
+药	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+酒	O
+精	O
+过	O
+敏	O
+
+“	O
+普	B
+米	I
+克	I
+令	I
+舒	E
+、	O
+博	B
+利	I
+康	I
+尼	E
+”	O
+过	O
+敏	O
+史	O
+
+口	O
+服	O
+苯	B
+巴	I
+比	I
+妥	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+苯	B
+巴	I
+比	I
+妥	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	E
+及	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+、	O
+先	B
+锋	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+“	B
+丹	I
+参	E
+”	O
+过	O
+敏	O
+
+否	O
+认	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+对	O
+螨	O
+虫	O
+及	O
+尘	O
+土	O
+过	O
+敏	O
+
+无	O
+其	O
+它	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+、	O
+卡	B
+那	I
+霉	I
+素	E
+、	O
+新	B
+青	I
+霉	I
+素	E
+“	O
+过	O
+敏	O
+（	O
+恶	O
+心	O
+、	O
+呕	O
+吐	O
+）	O
+
+对	O
+“	O
+痢	B
+特	I
+灵	E
+”	O
+过	O
+敏	O
+（	O
+皮	O
+疹	O
+）	O
+
+曾	O
+有	O
+阿	B
+司	I
+匹	I
+林	E
+过	O
+敏	O
+史	O
+
+
+既	O
+往	O
+对	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+食	O
+品	O
+添	O
+加	O
+剂	O
+“	O
+山	O
+梨	O
+酸	O
+钾	O
+、	O
+氯	O
+菊	O
+酯	O
+”	O
+及	O
+含	O
+食	O
+品	O
+添	O
+加	O
+剂	O
+的	O
+食	O
+物	O
+过	O
+敏	O
+
+硝	B
+酸	I
+甘	I
+油	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+银	B
+杏	I
+叶	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+及	O
+地	B
+卡	I
+因	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	E
+、	O
+阿	B
+莫	I
+西	I
+林	E
+、	O
+硝	B
+酸	I
+甘	I
+油	E
+、	O
+安	B
+痛	I
+定	E
+等	O
+药	O
+物	O
+过	O
+敏	O
+
+玉	O
+米	O
+，	O
+味	O
+精	O
+过	O
+敏	O
+史	O
+
+对	O
+海	O
+鲜	O
+等	O
+食	O
+物	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	I
+类	E
+、	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+
+自	O
+述	O
+对	O
+“	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	E
+、	O
+链	B
+霉	I
+素	E
+、	O
+花	O
+粉	O
+”	O
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+解	B
+热	I
+镇	I
+痛	I
+药	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+磺	B
+胺	E
+、	O
+甲	B
+硝	I
+唑	E
+过	O
+敏	O
+
+曾	O
+行	O
+皮	O
+试	O
+有	O
+头	B
+孢	I
+类	E
+过	O
+敏	O
+史	O
+
+对	O
+扑	B
+尔	I
+敏	E
+、	O
+青	B
+霉	I
+素	E
+、	O
+庆	B
+大	I
+霉	I
+素	E
+、	O
+阿	B
+司	I
+匹	I
+林	E
+过	O
+敏	O
+
+头	B
+孢	I
+菌	I
+素	I
+类	E
+、	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	I
+类	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+既	O
+往	O
+有	O
+青	B
+霉	I
+素	E
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+过	O
+敏	O
+源	O
+检	O
+测	O
+“	O
+海	O
+鲜	O
+”	O
+“	O
+粉	O
+尘	O
+”	O
+阳	O
+性	O
+
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+左	B
+氧	I
+氟	I
+沙	I
+星	E
+、	O
+天	B
+麻	I
+素	E
+过	O
+敏	O
+
+对	O
+磺	B
+胺	I
+类	E
+、	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	E
+及	O
+左	B
+氧	I
+氟	I
+沙	I
+星	E
+过	O
+敏	O
+
+对	O
+磺	B
+胺	E
+、	O
+灯	B
+盏	I
+花	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+美	B
+满	I
+霉	I
+素	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+水	B
+杨	I
+酸	E
+、	O
+磺	B
+胺	I
+、	I
+苯	I
+甲	I
+酸	I
+钠	E
+、	O
+榛	O
+子	O
+等	O
+过	O
+敏	O
+
+对	O
+手	O
+术	O
+缝	O
+线	O
+过	O
+敏	O
+
+磺	B
+胺	E
+过	O
+敏	O
+史	O
+
+自	O
+诉	O
+对	O
+磺	B
+胺	E
+、	O
+去	B
+痛	I
+片	E
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+“	O
+油	O
+漆	O
+”	O
+过	O
+敏	O
+
+
+进	O
+食	O
+猕	O
+猴	O
+桃	O
+过	O
+敏	O
+史	O
+
+有	O
+前	B
+列	I
+地	I
+尔	E
+过	O
+敏	O
+史	O
+
+疑	O
+似	O
+花	O
+粉	O
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+去	B
+痛	I
+片	E
+、	O
+阿	B
+司	I
+匹	I
+林	E
+过	O
+敏	O
+
+对	O
+牛	O
+肉	O
+、	O
+花	O
+粉	O
+过	O
+敏	O
+
+对	O
+阿	B
+莫	I
+西	I
+林	I
+片	E
+过	O
+敏	O
+
+过	O
+敏	O
+症	O
+状	O
+为	O
+皮	O
+疹	O
+
+患	O
+者	O
+三	O
+天	O
+前	O
+吃	O
+熏	O
+烤	O
+肉	O
+后	O
+双	O
+侧	O
+手	O
+掌	O
+水	O
+疱	O
+、	O
+溃	O
+烂	O
+，	O
+我	O
+院	O
+皮	O
+肤	O
+科	O
+诊	O
+断	O
+“	O
+过	O
+敏	O
+”	O
+
+阿	B
+司	I
+匹	I
+林	E
+过	O
+敏	O
+
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+过	O
+敏	O
+表	O
+现	O
+为	O
+全	O
+身	O
+疱	O
+疹	O
+
+药	O
+物	O
+过	O
+敏	O
+史	O
+：	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	E
+、	O
+喹	B
+诺	I
+酮	E
+过	O
+敏	O
+
+否	O
+认	O
+外	O
+伤	O
+、	O
+输	O
+血	O
+、	O
+药	O
+物	O
+及	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+阿	B
+司	I
+匹	I
+林	I
+肠	I
+溶	I
+片	E
+、	O
+倍	B
+他	I
+乐	I
+克	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+，	O
+磺	B
+胺	I
+类	I
+，	I
+氯	I
+吡	I
+咯	I
+雷	E
+过	O
+敏	O
+
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+有	O
+海	O
+鲜	O
+及	O
+鸡	O
+蛋	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	E
+、	O
+血	B
+清	E
+过	O
+敏	O
+
+
+链	B
+霉	I
+素	E
+过	O
+敏	O
+
+虾	O
+等	O
+海	O
+产	O
+品	O
+过	O
+敏	O
+
+过	O
+敏	O
+症	O
+状	O
+为	O
+头	O
+晕	O
+
+硝	B
+酸	I
+甘	I
+油	E
+、	O
+盐	B
+酸	I
+替	I
+罗	I
+非	I
+班	E
+可	O
+疑	O
+过	O
+敏	O
+史	O
+
+苯	B
+甲	I
+酸	I
+钠	I
+，	I
+造	I
+影	I
+剂	E
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+对	O
+芒	O
+果	O
+过	O
+敏	O
+
+对	O
+链	B
+霉	I
+素	E
+、	O
+新	B
+斯	I
+的	I
+明	E
+过	O
+敏	O
+
+对	O
+酒	O
+精	O
+、	O
+磺	B
+胺	E
+及	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+青	B
+链	I
+霉	I
+素	E
+、	O
+卡	B
+那	I
+霉	I
+素	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+
+曾	O
+对	O
+某	O
+种	O
+鱼	O
+过	O
+敏	O
+
+对	O
+烟	O
+、	O
+酒	O
+、	O
+茶	O
+、	O
+大	O
+蒜	O
+、	O
+辣	O
+椒	O
+等	O
+过	O
+敏	O
+
+鸭	O
+肉	O
+过	O
+敏	O
+
+自	O
+述	O
+奎	B
+尼	I
+丁	E
+过	O
+敏	O
+
+否	O
+认	O
+视	O
+物	O
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+对	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+有	O
+过	O
+敏	O
+史	O
+
+近	O
+3	O
+年	O
+出	O
+现	O
+"	O
+海	O
+鲜	O
+"	O
+过	O
+敏	O
+史	O
+
+有	O
+牛	O
+奶	O
+等	O
+过	O
+敏	O
+史	O
+
+河	O
+鱼	O
+、	O
+无	O
+鳞	O
+鱼	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+药	E
+过	O
+敏	O
+
+
+既	O
+往	O
+对	O
+“	O
+增	B
+效	I
+连	I
+黄	I
+片	E
+”	O
+过	O
+敏	O
+
+对	O
+啤	O
+酒	O
+过	O
+敏	O
+
+对	O
+葛	B
+根	I
+素	E
+过	O
+敏	O
+
+对	O
+柿	O
+子	O
+过	O
+敏	O
+
+否	O
+认	O
+药	O
+物	O
+及	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+丹	B
+参	E
+、	O
+刺	B
+五	I
+加	E
+、	O
+培	B
+他	I
+司	I
+汀	E
+、	O
+碘	B
+造	I
+影	I
+剂	E
+、	O
+海	O
+鲜	O
+类	O
+食	O
+物	O
+过	O
+敏	O
+
+既	O
+往	O
+有	O
+过	O
+1	O
+次	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+患	O
+者	O
+对	O
+6	O
+5	O
+4	O
+-	O
+2	O
+及	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+磺	B
+胺	I
+药	I
+物	E
+过	O
+敏	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+菌	I
+素	E
+过	O
+敏	O
+史	O
+
+
+甲	B
+硝	I
+唑	E
+及	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+光	O
+照	O
+过	O
+敏	O
+
+增	B
+效	I
+连	I
+黄	I
+片	E
+过	O
+敏	O
+
+人	B
+血	I
+白	I
+蛋	I
+白	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	E
+、	O
+局	B
+麻	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+鱼	O
+类	O
+过	O
+敏	O
+
+表	O
+现	O
+为	O
+皮	O
+疹	O
+和	O
+抽	O
+搐	O
+，	O
+另	O
+对	O
+磺	B
+胺	E
+过	O
+敏	O
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+、	O
+海	O
+鲜	O
+”	O
+过	O
+敏	O
+
+对	O
+脑	B
+清	I
+片	E
+过	O
+敏	O
+
+对	O
+“	O
+花	O
+粉	O
+及	O
+粉	O
+尘	O
+”	O
+过	O
+敏	O
+
+
+有	O
+氯	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+小	B
+牛	I
+血	I
+清	E
+过	O
+敏	O
+
+并	O
+出	O
+现	O
+皮	O
+疹	O
+，	O
+考	O
+虑	O
+过	O
+敏	O
+反	O
+应	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+治	O
+愈	O
+后	O
+遗	O
+留	O
+右	O
+侧	O
+半	O
+身	O
+包	O
+括	O
+头	O
+面	O
+部	O
+感	O
+觉	O
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+链	B
+霉	I
+素	E
+过	O
+敏	O
+
+自	O
+述	O
+酒	O
+精	O
+过	O
+敏	O
+
+对	O
+酒	O
+精	O
+、	O
+海	O
+鲜	O
+过	O
+敏	O
+
+
+既	O
+往	O
+对	O
+“	O
+葛	B
+根	I
+素	E
+”	O
+、	O
+“	O
+康	B
+泰	I
+克	E
+”	O
+等	O
+药	O
+物	O
+过	O
+敏	O
+
+胶	O
+布	O
+、	O
+酒	O
+精	O
+过	O
+敏	O
+
+患	O
+者	O
+吃	O
+硝	B
+苯	I
+地	I
+平	I
+类	I
+药	I
+物	E
+会	O
+出	O
+现	O
+头	O
+胀	O
+痛	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+香	O
+皂	O
+、	O
+香	O
+菇	O
+、	O
+大	O
+酱	O
+、	O
+某	O
+种	O
+鱼	O
+（	O
+不	O
+详	O
+）	O
+过	O
+敏	O
+
+“	O
+阿	B
+莫	I
+西	I
+林	I
+泡	I
+腾	I
+片	E
+”	O
+过	O
+敏	O
+
+对	O
+葛	O
+根	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	E
+、	O
+磺	B
+胺	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+对	O
+酒	O
+精	O
+，	O
+海	O
+鲜	O
+过	O
+敏	O
+
+替	B
+硝	I
+唑	E
+过	O
+敏	O
+史	O
+
+磺	B
+胺	E
+过	O
+敏	O
+
+
+自	O
+诉	O
+近	O
+三	O
+年	O
+输	O
+入	O
+青	B
+霉	I
+素	E
+过	O
+程	O
+中	O
+曾	O
+出	O
+现	O
+过	O
+敏	O
+反	O
+应	O
+
+四	B
+环	I
+素	E
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+头	B
+孢	I
+噻	I
+肟	I
+钠	E
+、	O
+头	B
+孢	I
+曲	I
+松	E
+、	O
+先	B
+锋	I
+B	E
+过	O
+敏	O
+
+对	O
+“	O
+头	B
+孢	I
+类	E
+、	O
+链	B
+霉	I
+素	E
+、	O
+阿	B
+莫	I
+西	I
+林	E
+”	O
+过	O
+敏	O
+
+对	O
+多	O
+种	O
+化	O
+学	O
+物	O
+品	O
+有	O
+过	O
+敏	O
+史	O
+
+有	O
+青	B
+霉	I
+素	E
+、	O
+海	O
+鲜	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+药	E
+过	O
+敏	O
+史	O
+
+络	B
+活	I
+喜	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+先	B
+锋	I
+类	E
+、	O
+丹	B
+红	E
+、	O
+碘	B
+造	I
+影	I
+剂	I
+药	I
+物	E
+过	O
+敏	O
+
+自	O
+述	O
+应	O
+用	O
+地	B
+塞	I
+米	I
+松	E
+过	O
+敏	O
+后	O
+出	O
+现	O
+浮	O
+肿	O
+
+
+对	O
+辛	B
+伐	I
+他	I
+汀	I
+药	I
+物	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+铁	O
+过	O
+敏	O
+
+消	B
+炎	I
+利	I
+胆	I
+片	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+有	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+（	O
+牛	O
+、	O
+羊	O
+、	O
+鸡	O
+蛋	O
+、	O
+香	O
+菜	O
+）	O
+
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+菌	I
+素	E
+、	O
+左	B
+克	E
+过	O
+敏	O
+
+患	O
+者	O
+对	O
+海	O
+鲜	O
+过	O
+敏	O
+
+
+对	O
+“	O
+硝	B
+苯	I
+地	I
+平	I
+控	I
+释	I
+片	E
+、	O
+葛	B
+根	I
+素	E
+、	O
+康	B
+泰	I
+克	E
+”	O
+等	O
+多	O
+种	O
+药	O
+物	O
+过	O
+敏	O
+
+硝	B
+酸	I
+甘	I
+油	E
+及	O
+单	B
+硝	I
+酸	I
+异	I
+山	I
+梨	I
+酯	I
+注	I
+射	I
+液	E
+过	O
+敏	O
+史	O
+
+诊	O
+断	O
+为	O
+先	B
+锋	I
+酶	I
+素	I
+Ⅴ	I
+号	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+豆	O
+角	O
+过	O
+敏	O
+
+春	O
+季	O
+对	O
+海	O
+鲜	O
+过	O
+敏	O
+
+对	O
+甲	B
+钴	I
+胺	I
+注	I
+射	I
+液	E
+过	O
+敏	O
+
+对	O
+消	B
+心	I
+痛	E
+，	O
+舒	B
+降	I
+脂	E
+，	O
+阿	B
+司	I
+匹	I
+林	E
+过	O
+敏	O
+史	O
+
+述	O
+对	O
+粉	O
+尘	O
+过	O
+敏	O
+
+链	B
+霉	I
+素	E
+过	O
+敏	O
+休	O
+克	O
+史	O
+
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+止	B
+痛	I
+药	I
+“	I
+索	I
+密	I
+痛	I
+”	E
+、	O
+“	O
+撒	B
+利	I
+痛	E
+”	O
+过	O
+敏	O
+
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+红	B
+花	I
+注	I
+射	I
+液	E
+过	O
+敏	O
+
+对	O
+青	B
+霉	I
+素	E
+及	O
+先	B
+锋	I
+四	I
+号	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+及	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+对	O
+酒	O
+精	O
+及	O
+头	B
+孢	I
+克	I
+洛	E
+过	O
+敏	O
+
+患	O
+者	O
+自	O
+诉	O
+对	O
+安	B
+痛	I
+定	E
+过	O
+敏	O
+两	O
+次	O
+
+自	O
+述	O
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+进	O
+食	O
+“	O
+金	O
+蝉	O
+”	O
+过	O
+敏	O
+
+
+自	O
+述	O
+对	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+对	O
+先	B
+锋	E
+过	O
+敏	O
+
+对	O
+章	O
+鱼	O
+过	O
+敏	O
+
+对	O
+四	B
+环	I
+素	E
+及	O
+土	B
+霉	I
+素	E
+过	O
+敏	O
+
+杨	O
+柳	O
+絮	O
+过	O
+敏	O
+
+对	O
+安	B
+乃	I
+近	E
+、	O
+先	B
+锋	E
+、	O
+曲	B
+马	I
+多	E
+、	O
+正	B
+天	I
+丸	E
+等	O
+过	O
+敏	O
+
+对	O
+磺	B
+胺	I
+类	E
+、	O
+安	B
+乃	I
+近	E
+等	O
+药	O
+物	O
+过	O
+敏	O
+
+对	O
+磺	B
+胺	I
+药	E
+、	O
+氨	B
+苄	I
+西	I
+林	I
+钠	E
+、	O
+鲁	B
+南	I
+欣	I
+康	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+自	O
+述	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	E
+过	O
+敏	O
+
+
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	E
+过	O
+敏	O
+史	O
+
+对	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+、	O
+症	O
+状	O
+为	O
+全	O
+身	O
+皮	O
+疹	O
+
+自	O
+述	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+局	B
+麻	I
+药	E
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+他	B
+汀	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+有	O
+食	O
+用	O
+蘑	O
+菇	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+自	O
+诉	O
+磺	B
+胺	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+既	O
+往	O
+有	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+患	O
+者	O
+对	O
+烟	O
+味	O
+过	O
+敏	O
+
+
+曾	O
+行	O
+过	O
+敏	O
+原	O
+检	O
+查	O
+提	O
+示	O
+对	O
+韭	O
+菜	O
+、	O
+鱼	O
+、	O
+芝	O
+麻	O
+、	O
+豆	O
+类	O
+过	O
+敏	O
+
+对	O
+花	O
+粉	O
+、	O
+动	O
+物	O
+皮	O
+毛	O
+、	O
+油	O
+漆	O
+、	O
+部	B
+分	I
+化	I
+学	I
+制	I
+剂	I
+等	E
+过	O
+敏	O
+
+对	O
+维	B
+生	I
+素	I
+C	I
+药	I
+物	E
+辅	O
+料	O
+、	O
+丹	B
+参	I
+注	I
+射	I
+液	E
+等	O
+多	O
+种	O
+药	O
+物	O
+过	O
+敏	O
+
+对	O
+磺	B
+胺	I
+类	E
+、	O
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+“	B
+磺	I
+胺	I
+药	E
+”	O
+、	O
+“	O
+解	B
+热	I
+镇	I
+痛	I
+药	I
+物	E
+”	O
+、	O
+酒	O
+精	O
+等	O
+物	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+皮	O
+试	O
+过	O
+敏	O
+
+链	B
+霉	I
+素	E
+应	O
+用	O
+出	O
+现	O
+面	O
+部	O
+发	O
+麻	O
+
+复	B
+方	I
+新	I
+诺	I
+明	E
+过	O
+敏	O
+
+“	B
+头	I
+孢	I
+类	I
+”	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+、	O
+庆	B
+大	I
+霉	I
+素	E
+、	O
+刺	B
+激	I
+性	I
+臭	I
+味	E
+、	O
+强	B
+酸	I
+强	I
+碱	E
+过	O
+敏	O
+
+头	B
+孢	I
+疑	I
+似	E
+过	O
+敏	O
+
+
+有	O
+波	B
+立	I
+维	E
+过	O
+敏	O
+史	O
+
+油	O
+漆	O
+过	O
+敏	O
+史	O
+
+造	B
+影	I
+剂	E
+过	O
+敏	O
+史	O
+
+链	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+自	O
+诉	O
+对	O
+牛	O
+奶	O
+过	O
+敏	O
+
+自	O
+述	O
+瑞	B
+舒	I
+伐	I
+他	I
+汀	E
+，	O
+美	B
+托	I
+洛	I
+尔	E
+，	O
+及	O
+磺	B
+胺	I
+类	E
+和	O
+青	B
+霉	I
+素	I
+类	E
+过	O
+敏	O
+
+对	O
+“	O
+汉	O
+堡	O
+、	O
+荠	O
+菜	O
+”	O
+过	O
+敏	O
+
+哮	O
+喘	O
+可	O
+能	O
+对	O
+螨	O
+、	O
+花	O
+粉	O
+过	O
+敏	O
+
+数	O
+年	O
+前	O
+曾	O
+有	O
+“	O
+呋	B
+奴	I
+卡	I
+因	E
+”	O
+过	O
+敏	O
+史	O
+
+既	O
+往	O
+对	O
+“	O
+氨	B
+茶	I
+碱	E
+”	O
+过	O
+敏	O
+
+
+有	O
+阿	B
+莫	I
+西	I
+林	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+对	O
+硝	B
+苯	I
+地	I
+平	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+水	O
+蛭	O
+、	O
+槐	O
+花	O
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+化	B
+妆	I
+品	E
+过	O
+敏	O
+
+无	O
+外	O
+伤	O
+,	O
+无	O
+过	O
+敏	O
+食	O
+物	O
+史	O
+
+有	O
+海	O
+鲜	O
+过	O
+敏	O
+史	O
+（	O
+起	O
+皮	O
+疹	O
+）	O
+
+自	O
+述	O
+有	O
+麻	B
+醉	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+有	O
+“	O
+葛	B
+根	I
+素	E
+”	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+卡	B
+马	I
+西	I
+平	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+头	B
+孢	I
+克	I
+肟	E
+过	O
+敏	O
+
+中	O
+日	O
+友	O
+好	O
+医	O
+院	O
+测	O
+定	O
+对	O
+蚕	O
+丝	O
+、	O
+皮	O
+毛	O
+、	O
+尘	O
+螨	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+药	O
+物	O
+过	O
+敏	O
+
+曾	O
+有	O
+一	B
+次	I
+头	I
+孢	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+史	O
+
+治	O
+愈	O
+后	O
+遗	O
+留	O
+右	O
+侧	O
+半	O
+身	O
+包	O
+括	O
+头	O
+面	O
+部	O
+感	O
+觉	O
+过	O
+敏	O
+
+对	O
+“	O
+头	B
+孢	I
+类	I
+药	E
+、	O
+哌	B
+拉	I
+西	I
+林	E
+”	O
+过	O
+敏	O
+
+
+对	O
+辛	B
+伐	I
+他	I
+汀	E
+过	O
+敏	O
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	E
+、	O
+去	B
+痛	I
+片	E
+过	O
+敏	O
+史	O
+
+自	O
+诉	O
+对	B
+庆	I
+大	I
+霉	I
+素	I
+以	I
+外	I
+的	I
+所	I
+有	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+有	O
+中	B
+药	I
+麦	I
+冬	E
+过	O
+敏	O
+史	O
+
+对	O
+四	B
+环	I
+素	E
+、	O
+花	O
+粉	O
+、	O
+油	O
+漆	O
+、	O
+冷	O
+空	O
+气	O
+、	O
+尘	O
+螨	O
+等	O
+过	O
+敏	O
+
+造	B
+影	I
+剂	E
+过	O
+敏	O
+
+既	O
+往	O
+有	O
+可	O
+疑	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+无	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+霉	I
+素	E
+、	O
+左	B
+氧	I
+氟	I
+沙	I
+星	E
+”	O
+过	O
+敏	O
+
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+、	O
+非	B
+甾	I
+体	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+“	O
+头	B
+孢	I
+菌	I
+素	E
+”	O
+过	O
+敏	O
+
+食	O
+用	O
+狗	O
+肉	O
+曾	O
+出	O
+现	O
+过	O
+敏	O
+
+对	O
+荞	O
+麦	O
+过	O
+敏	O
+
+对	O
+“	O
+胃	B
+复	I
+安	E
+”	O
+过	O
+敏	O
+
+对	O
+磺	B
+胺	I
+类	E
+、	O
+抗	B
+菌	I
+优	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+脂	B
+肪	I
+乳	E
+、	O
+雷	B
+尼	I
+替	I
+丁	E
+、	O
+头	B
+孢	I
+类	E
+、	O
+沙	B
+星	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+对	O
+哌	B
+拉	I
+西	I
+林	I
+舒	I
+巴	I
+坦	I
+钠	E
+、	O
+左	B
+氧	I
+氟	I
+沙	I
+星	E
+过	O
+敏	O
+
+对	O
+花	O
+粉	O
+、	O
+灰	O
+尘	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+、	O
+苯	B
+巴	I
+比	I
+妥	E
+过	O
+敏	O
+
+
+磺	B
+胺	E
+过	O
+敏	O
+史	O
+
+既	O
+往	O
+有	O
+C	B
+T	I
+造	I
+影	I
+剂	E
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+、	O
+巴	B
+比	I
+妥	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+酒	O
+精	O
+过	O
+敏	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+氯	B
+霉	I
+素	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+、	O
+海	O
+鲜	O
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+链	B
+霉	I
+素	E
+、	O
+咳	B
+必	I
+清	E
+、	O
+丹	B
+红	E
+、	O
+波	B
+利	I
+维	E
+、	O
+莨	B
+菪	I
+碱	E
+、	O
+阿	B
+莫	I
+西	I
+林	E
+、	O
+硫	B
+酸	I
+镁	E
+过	O
+敏	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+
+阿	B
+奇	I
+霉	I
+素	E
+过	O
+敏	O
+
+
+北	O
+方	O
+水	O
+果	O
+过	O
+敏	O
+
+既	O
+往	O
+“	O
+青	B
+霉	I
+素	E
+”	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+阿	B
+司	I
+匹	I
+林	E
+、	O
+芬	B
+必	I
+得	E
+过	O
+敏	O
+
+花	O
+粉	O
+过	O
+敏	O
+病	O
+史	O
+
+“	O
+蛋	O
+白	O
+”	O
+过	O
+敏	O
+史	O
+
+对	O
+“	O
+碘	E
+”	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+灰	O
+尘	O
+，	O
+花	O
+生	O
+及	O
+增	O
+白	O
+皂	O
+过	O
+敏	O
+
+否	O
+认	O
+其	O
+他	O
+药	O
+物	O
+和	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+“	O
+芬	B
+必	I
+得	E
+”	O
+过	O
+敏	O
+
+
+对	O
+丹	B
+参	I
+多	I
+酚	I
+酸	I
+盐	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+、	O
+海	O
+鲜	O
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+去	B
+痛	I
+片	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+“	O
+菠	O
+萝	O
+”	O
+过	O
+敏	O
+
+磺	B
+胺	I
+类	E
+及	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+甲	B
+强	I
+龙	E
+过	O
+敏	O
+
+对	O
+“	B
+水	I
+杨	I
+酸	I
+类	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+有	O
+头	B
+孢	I
+呋	I
+辛	I
+酯	E
+过	O
+敏	O
+史	O
+
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+“	O
+农	B
+夫	I
+卡	I
+因	E
+”	O
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+既	O
+往	O
+“	O
+青	B
+霉	I
+素	E
+、	O
+阿	B
+奇	I
+霉	I
+素	E
+、	O
+罗	B
+红	I
+霉	I
+素	E
+、	O
+流	B
+产	I
+药	I
+物	E
+”	O
+过	O
+敏	O
+史	O
+
+对	O
+依	B
+那	I
+普	I
+利	E
+、	O
+青	B
+霉	I
+素	I
+类	E
+、	O
+头	B
+孢	I
+类	E
+、	O
+氧	B
+氟	I
+沙	I
+星	E
+及	O
+艾	B
+蒿	I
+等	I
+中	I
+药	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+和	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+无	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+自	O
+述	O
+对	O
+阿	B
+莫	I
+西	I
+林	E
+、	O
+花	O
+粉	O
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+及	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+、	O
+头	B
+孢	I
+类	E
+及	O
+碘	B
+造	I
+影	I
+剂	E
+过	O
+敏	O
+
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+过	O
+敏	O
+原	O
+不	O
+详	O
+
+青	B
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+自	O
+诉	O
+对	O
+“	O
+艾	B
+迪	I
+注	I
+射	I
+液	E
+、	O
+注	B
+射	I
+用	I
+脂	I
+溶	I
+性	I
+维	I
+生	I
+素	I
+Ⅱ	E
+/	O
+注	B
+射	I
+用	I
+水	I
+溶	I
+性	I
+维	I
+生	I
+素	E
+过	O
+敏	O
+”	O
+
+青	B
+霉	I
+素	E
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+既	O
+往	O
+有	O
+青	B
+霉	I
+素	E
+、	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+史	O
+
+对	O
+阳	O
+光	O
+过	O
+敏	O
+
+注	O
+射	O
+用	O
+头	B
+孢	I
+吡	I
+肟	E
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+桃	O
+毛	O
+过	O
+敏	O
+
+
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+对	O
+还	B
+原	I
+型	I
+谷	I
+胱	I
+甘	I
+肽	E
+过	O
+敏	O
+
+既	O
+往	O
+对	O
+“	O
+莴	O
+笋	O
+”	O
+过	O
+敏	O
+
+自	O
+述	O
+对	O
+庆	B
+大	I
+霉	I
+素	E
+过	O
+敏	O
+
+无	O
+外	O
+伤	O
+史	O
+及	O
+过	O
+敏	O
+史	O
+
+有	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+史	O
+
+曾	O
+有	O
+青	B
+霉	I
+素	E
+皮	O
+试	O
+出	O
+现	O
+红	O
+疹	O
+）	O
+
+对	O
+A	B
+P	I
+C	E
+、	O
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+对	O
+苹	O
+果	O
+等	O
+多	O
+种	O
+食	O
+物	O
+过	O
+敏	O
+
+有	O
+“	B
+黄	I
+连	I
+”	E
+过	O
+敏	O
+史	O
+
+对	O
+“	B
+磺	I
+胺	E
+”	O
+“	O
+丹	B
+红	I
+”	I
+药	I
+物	E
+过	O
+敏	O
+
+
+对	O
+丹	B
+红	I
+注	I
+射	I
+液	E
+过	O
+敏	O
+
+患	O
+者	O
+平	O
+素	O
+口	O
+服	O
+阿	B
+莫	I
+西	I
+林	E
+无	O
+过	O
+敏	O
+反	O
+应	O
+，	O
+具	O
+体	O
+不	O
+详	O
+
+别	B
+嘌	I
+呤	I
+醇	E
+、	O
+波	B
+立	I
+维	E
+、	O
+头	B
+孢	I
+类	I
+药	I
+物	E
+过	O
+敏	O
+
+对	O
+海	O
+鲜	O
+、	O
+羊	O
+肉	O
+间	O
+断	O
+过	O
+敏	O
+
+近	O
+2	O
+年	O
+未	O
+发	O
+生	O
+过	O
+敏	O
+
+对	O
+地	B
+尔	I
+硫	I
+卓	E
+、	O
+尼	B
+可	I
+地	I
+尔	E
+过	O
+敏	O
+
+自	O
+诉	O
+青	B
+霉	I
+素	E
+、	O
+维	B
+生	I
+素	I
+B	I
+1	E
+、	O
+维	B
+生	I
+素	I
+B	I
+1	I
+2	E
+过	O
+敏	O
+
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+目	O
+前	O
+过	O
+敏	O
+原	O
+尚	O
+不	O
+明	O
+
+
+对	O
+头	B
+孢	I
+呋	I
+辛	I
+钠	I
+药	I
+物	E
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+“	B
+吗	I
+啡	I
+”	E
+过	O
+敏	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+自	O
+诉	O
+对	O
+酒	O
+精	O
+有	O
+过	O
+敏	O
+史	O
+
+对	O
+动	O
+物	O
+皮	O
+毛	O
+过	O
+敏	O
+
+磺	B
+胺	I
+类	E
+过	O
+敏	O
+
+否	O
+认	O
+外	O
+伤	O
+及	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+头	B
+孢	I
+类	I
+抗	I
+生	I
+素	E
+、	O
+磺	B
+胺	I
+类	I
+抗	I
+生	I
+素	E
+过	O
+敏	O
+
+既	O
+往	O
+有	O
+氯	B
+硝	I
+安	I
+定	E
+，	O
+盐	B
+酸	I
+培	I
+他	I
+啶	I
+氯	I
+化	I
+钠	I
+注	I
+射	I
+液	E
+过	O
+敏	O
+史	O
+
+对	O
+青	B
+霉	I
+素	E
+、	O
+庆	B
+大	I
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+过	O
+敏	O
+
+
+对	O
+磺	B
+胺	E
+、	O
+含	B
+氯	I
+药	I
+物	E
+过	O
+敏	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+庆	B
+大	I
+霉	I
+素	E
+、	O
+链	B
+霉	I
+素	E
+过	O
+敏	O
+
+否	O
+认	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+食	O
+物	O
+、	O
+药	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+青	B
+霉	I
+素	E
+过	O
+敏	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+
+对	O
+痢	B
+特	I
+灵	E
+（	O
+磺	B
+胺	I
+类	E
+）	O
+过	O
+敏	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+
+对	O
+磺	B
+胺	I
+类	I
+药	I
+物	E
+和	O
+银	B
+杏	I
+叶	E
+过	O
+敏	O
+
+否	O
+认	O
+药	O
+物	O
+、	O
+食	O
+物	O
+过	O
+敏	O
+史	O
+

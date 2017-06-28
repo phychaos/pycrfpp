@@ -36,7 +36,7 @@ class CRFModel(object):
         tagger.parse()
         return tagger
 
-    def text_mark(self, tag_data, begin='B', middle='M', end='E', single='S'):
+    def text_mark(self, tag_data, begin='B', middle='I', end='E', single='S'):
         """
         文本标记
         :param tag_data: 数据
